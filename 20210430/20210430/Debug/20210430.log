@@ -1,6 +1,0 @@
-﻿  Function.c
-C:\Users\bit34-4\bit391\20210430\20210430\Function.c(109,13): warning C4113: 'int (__cdecl *)(int)'은(는) 'int (__cdecl *)(int,int)'과(와) 매개 변수 목록이 다릅니다.
-C:\Users\bit34-4\bit391\20210430\20210430\Function.c(114,19): warning C4113: 'void (__cdecl *)()'은(는) 'int (__cdecl *)(int,int)'과(와) 매개 변수 목록이 다릅니다.
-C:\Users\bit34-4\bit391\20210430\20210430\Function.c(114,19): warning C4133: '=': 'void (__cdecl *)()'과(와) 'int (__cdecl *)(int,int)' 사이의 형식이 호환되지 않습니다.
-C:\Users\bit34-4\bit391\20210430\20210430\Function.c(119,19): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
-  20210430.vcxproj -> C:\Users\bit34-4\bit391\20210430\Debug\20210430.exe

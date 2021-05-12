@@ -1,3 +1,0 @@
-﻿  exam.c
-C:\Users\bit34-4\bit391\20210503\20210503\exam.c(17,28): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  20210503.vcxproj -> C:\Users\bit34-4\bit391\20210503\Debug\20210503.exe
