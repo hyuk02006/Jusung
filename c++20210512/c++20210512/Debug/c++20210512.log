@@ -1,0 +1,4 @@
+﻿  Ex_Calcfare.cpp
+C:\Users\bit\bit391\c++20210512\c++20210512\Ex_Calcfare.cpp(35,43): warning C4244: '=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\bit\bit391\c++20210512\c++20210512\Ex_Calcfare.cpp(43,43): warning C4244: '=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  c++20210512.vcxproj -> C:\Users\bit\bit391\c++20210512\Debug\c++20210512.exe
