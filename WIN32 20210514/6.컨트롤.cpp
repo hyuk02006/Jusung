@@ -8,13 +8,13 @@
 
 // 전역 변수:
 HINSTANCE hInst;                                // 현재 인스턴스입니다.
-WCHAR szTitle[MAX_LOADSTRING];                  // 제목 표시줄 텍스트입니다.
+WCHAR szTitle[MAX_LOADSTRING];                  // 제목 표시줄 텍스트입니다. (sz = null로 끝나는 문자앞에 붙이는 헝가리언 표기법)
 WCHAR szWindowClass[MAX_LOADSTRING];            // 기본 창 클래스 이름입니다.
 
 // 이 코드 모듈에 포함된 함수의 선언을 전달합니다:
 ATOM                MyRegisterClass(HINSTANCE hInstance);
 BOOL                InitInstance(HINSTANCE, int);
-LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);
+LRESULT CALLBACK    WndProc(HWND, UINT, WPARAM, LPARAM);	//포수 (받는함수)
 INT_PTR CALLBACK    About(HWND, UINT, WPARAM, LPARAM);
 
 int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
@@ -28,12 +28,12 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 	// TODO: 여기에 코드를 입력합니다.
 
 	// 전역 문자열을 초기화합니다.
-	LoadString(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);
+	LoadString(hInstance, IDS_APP_TITLE, szTitle, MAX_LOADSTRING);	//LoadString() = IDS_APP_TITLE= 리소스에 있는 스트링 읽어와라
 	LoadStringW(hInstance, IDC_WIN3220210513, szWindowClass, MAX_LOADSTRING);
 	MyRegisterClass(hInstance);
 
 	// 애플리케이션 초기화를 수행합니다:
-	if (!InitInstance(hInstance, nCmdShow))
+	if (!InitInstance(hInstance, nCmdShow))		//윈도우의 탄생
 	{
 		return FALSE;
 	}
@@ -62,16 +62,14 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 //
 //  용도: 창 클래스를 등록합니다.
 //
-ATOM MyRegisterClass(HINSTANCE hInstance)
+ATOM MyRegisterClass(HINSTANCE hInstance)	//나의 윈도우를 등록하는 과정!
 {
 	WNDCLASSEXW wcex;
 
 	wcex.cbSize = sizeof(WNDCLASSEX);
 
 	wcex.style = CS_HREDRAW | CS_VREDRAW;
-
 	wcex.lpfnWndProc = WndProc; //포수이름(레지스터클래스에서 가장 중요함)
-
 	wcex.cbClsExtra = 0;
 	wcex.cbWndExtra = 0;
 	wcex.hInstance = hInstance;
@@ -102,7 +100,14 @@ BOOL InitInstance(HINSTANCE hInstance, int nCmdShow)
 
 	HWND hWnd = CreateWindowW(szWindowClass, szTitle, WS_OVERLAPPEDWINDOW,
 		CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
+	
+	//HWND hWnd = CreateWindowW(_T("EDIT") //btn,edit 가능   , szTitle, WS_OVERLAPPEDWINDOW,		
+	//	CW_USEDEFAULT, 0, CW_USEDEFAULT, 0, nullptr, nullptr, hInstance, nullptr);
 
+	if (!hWnd)
+	{
+		return FALSE;
+	}
 
 	ShowWindow(hWnd, nCmdShow);
 	UpdateWindow(hWnd);
@@ -128,11 +133,36 @@ HWND hButtonSave;
 #define ID_BTN_PRINT 102
 
 int nTop = 100;
+
 LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
 
 	switch (message)
 	{
+
+	case WM_CREATE:
+	{
+		hStatic = CreateWindowW(_T("STATIC"), _T("이름 : "),	//hStatic = 핸들을 받는거요~
+			WS_CHILD | WS_VISIBLE,
+			20, 20, 100, 25,
+			hWnd, (HMENU)-1, hInst, NULL);
+
+		hEdit = CreateWindowW(_T("EDIT"), _T("바보야"),
+			WS_CHILD | WS_VISIBLE | WS_BORDER | ES_AUTOHSCROLL,
+			20, 100, 200, 25,
+			hWnd, (HMENU)ID_EDIT_NAME, hInst, NULL);
+
+		hButtonSave = CreateWindowW(_T("BUTTON"), _T("저장"),
+			WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
+			300, 20, 100, 25,
+			hWnd, (HMENU)ID_BTN_SAVE, hInst, NULL);
+
+		CreateWindowW(_T("BUTTON"), _T("인쇄"),
+			WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
+			300, 50, 100, 25,
+			hWnd, (HMENU)ID_BTN_PRINT, hInst, NULL);
+	}
+	break;
 	case WM_COMMAND:
 	{
 
@@ -210,29 +240,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 	}
 	break;
 
-	case WM_CREATE:
-	{
-		hStatic = CreateWindowW(_T("STATIC"), _T("이름 : "),
-			WS_CHILD | WS_VISIBLE,
-			20, 20, 100, 25,
-			hWnd, (HMENU)-1, hInst, NULL);
-
-		hEdit = CreateWindowW(_T("EDIT"), _T("바보야"),
-			WS_CHILD | WS_VISIBLE | WS_BORDER | ES_AUTOHSCROLL,
-			20, 100, 200, 25,
-			hWnd, (HMENU)ID_EDIT_NAME, hInst, NULL);
-
-		hButtonSave =CreateWindowW(_T("BUTTON"), _T("저장"),
-			WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
-			300, 20, 100, 25,
-			hWnd, (HMENU)ID_BTN_SAVE, hInst, NULL);
-
-			CreateWindowW(_T("BUTTON"), _T("인쇄"),
-			WS_CHILD | WS_VISIBLE | BS_PUSHBUTTON,
-			300, 50, 100, 25,
-			hWnd, (HMENU)ID_BTN_PRINT, hInst, NULL);
-	}
-		break;
 
 	case WM_PAINT:
 	{
