@@ -100,6 +100,6 @@ void CMainFrame::Dump(CDumpContext& dc) const
 void CMainFrame::OnClose()
 {
 	// TODO: 여기에 메시지 처리기 코드를 추가 및/또는 기본값을 호출합니다.
-	AfxMessageBox(_T("바이바이"));
+	//AfxMessageBox(_T("바이바이"));
 	CFrameWnd::OnClose();
 }
