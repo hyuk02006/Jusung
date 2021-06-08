@@ -1,0 +1,5 @@
+* [ recv --> recvn ]
+
+1. recvn을 클래스의 맴버함수로 정의
+
+2. WorkThread의 recv함수를 recvn함수로 변경처리!
