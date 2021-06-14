@@ -3,7 +3,7 @@
 3.select ename "이름", job "직위" , hiredate "입사일" from emp where hiredate >='81/02/20'and hiredate <'81/05/02';
 4.select ename "이름", sal "급여" from emp where (deptno =10 or deptno =30) and sal >=1500;
 5.select ename,hiredate from emp where hiredate>='82/01/01' and hiredate <='82/12/31';
-6.select ename "이름 " from emp where (instr(ename,'L',1,2)>0) and (deptno =30 or mgr =7782);
+6.select ename "이름 " from emp where (instr(ename,'L',1,2)>0) and (instr(ename,'L',1,3)=0) and (deptno =30 or mgr =7782);
 7.select ename "이름", job "직위", sal "급여" from emp where job in('CLERK','ANALYST') and sal not in(1000,3000,5000);
 8.select empno "사원번호" , ename "이름" ,round(sal*1.15) "NEW SALARY" from emp;
 9.select empno "사원번호" , ename "이름" ,round(sal*1.15) "NEW SALARY",round(sal*0.15)"INCLREASE" from emp;
