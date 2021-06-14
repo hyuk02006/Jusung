@@ -1,0 +1,345 @@
+*(PL/SQL) ->컴파일 = 절차적 언어 sql
+-(if,while,for....)
+
+*DBMS
+1. 외부명령 = 변수선언, PL/SQL 객체 호출
+2. SQL 
+3. PL/SQL 
+
+============================================================================================
+*SQL 명령 (비절차적 언어)
+
+1. DDL(데이터 정의 명령) : create - 생성 , alter - 교체(컬럼 추가 삭제) , drop - 테이블삭제, truncate - 테이블의 모든 행 삭제 (delete보단 성능좋음) ,rename-이름변경 (권장X)
+-대상: 객체
+		     					        
+2. DML(데이터 조작 명령): insert - row(행)추가 , update - row(행) 변경, delete - row(행) 삭제, [select] - 추출
+-대상: 데이터(행)
+
+3. DCL(데이터 관리 명령): grand - 권한부여 , revoke - 권한회수 , [deny]
+-(보안)권한관리명령      ※단어: 롤
+		        권한:privileage
+
+4. TCL(트랜잭션 관리 명령): commit - 저장, rollback - 취소 (stack처럼 마지막 명령부터 수행), savepoint - 저장점
+-DML을 관리하는 명령
+
+============================================================================================
+*테이블 생성
+
+--생성
+ create table test(id number (10), name varchar2(20), addr varchar2(30));
+
+--변경
+alter table test add sex char(4); //컬럼추가
+
+alter table test modify addr varchar2(50) //컬럼변경
+
+alter table test drop column sex; //컬럼삭제(column 키워드)
+
+--삭제
+drop table test;
+
+============================================================================================
+※인덱스 =>where절에서 자주 사용하는데에서 생성하는 컬럼 씀
+
+*constraint(제약 조건)
+-부여단위 :컬럼 (데이터무결성 = 신뢰성 상승)  
+		-트리거(PL/SQL) =디테일한 조건
+데이터 무결성 : 잘못된 데이터가 들어오는것을 방지하는 것
+-개체 무결성 : not null : null x 
+	      unique : 유일제약, null 허용
+	      primary key (기본키) : not null + unique /하나의 테이블에는 1개만 존재 
+
+-영역 무결성 : check : 영역내의 유효한 값인지 여부 (성별, 결혼여부...) /null 허용
+	      ※default : 기본값 (입력 하지 않을시 들어갈 값 지정)
+
+-참조 무결성 : foreign key(참조키) : 다른 컴럼(pk)을 참조 /자식이 있는상태에서는 row 삭제 불가능
+ 			        ※cascade옵션 : delete(oracle 제공 O) - 나의 부모가 지워지면 그 부모를 참조하는 행을 다지움
+					    update(oracle제공x) - 참조하는 부모가 바뀌면 참조하는 행 모두 바뀜 
+ 					    ->oracle 에서는 트리거 사용
+
+※제약조건 문법
+1. 컬럼단위 : create table test(id number(10) [constaint test_ip_pk] primary key, ....) -not null,4개 제약 다됨
+(컬럼 정의할때 함께 )
+
+2.테이블 단위 :  create table test (id number(10),.. , ... , constraint test_id_pk primary key(id));  4개 제약 
+(컬럼 추가 하듯이) , 복합컬럼제약인 경우  ...c1 n(3), c2 n(3), c3 n(3) ,... constraint test_id_pk primary key (c1,c2,c3);
+
+============================================================================================
+1. 컬럼단위
+--학생 테이블
+create tablse student 
+(hakbun number(9) constraint student_hakbun_pk primary key, 
+sname varchar2(2) constraint student_sname_nn not null,
+addr varchar2(30) default '서울',
+age  number(3) constraint student_age_ck check(age <=30),
+jumin varchar2(14) constraint student_jumin_uq unique);
+
+--도서대출 테이블
+create table library
+(sno number(9) constraint lib_sno_fk references student(hakbun) [on delete cascade],
+book varchar2(20) not null,
+loan_date date default sysdate);
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+--jumin에 not null 추가 또는 삭제
+alter table student
+modify jumin [constraint student_jumin_nn not null | null]
+
+--not null을 제외한 모든 제약
+alter table student
+-add constraint student_jumin_uq unique(jumin));	//제약 추가
+-drop constraint student_jumin_uq 			//제약삭제
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. 테이블 단위
+--학생 테이블
+create tablse student 
+(hakbun number(9) , 
+sname varchar2(2) constraint student_sname_nn not null,
+addr varchar2(30) default '서울',
+age  number(3),
+jumin varchar2(14) constraint student_sname_nn not null,
+constraint student_hakbun_pk primary key(hakbun),
+constraint student_age_ck (age<=30),
+constraint student_jumin_uq unique(jumin));
+
+--도서대출 테이블
+create table library
+(sno number(9) ,
+book varchar2(20) not null,
+loan_date date default sysdate
+constraint lib_sno_fk foreign key(sno) references student(hakbun));
+
+*단일행 함수
+행마다 실행 하는 것 
+DB함수 - 반드시 1개의 리턴값 존재
+
+*다중행 함수
+n개의 행이 들어간 함수 (계산 되는 것 밖에 없음)
+
+1. 수학 함수
+☞select sin(10),cos (10),tan(10), log(10,2) , power(3,5) from dual;
+
+ SIN(10)    COS(10)    TAN(10)  LOG(10,2) POWER(3,5)
+---------- ---------- ---------- ---------- ----------
+-.54402111 -.83907153 .648360827 .301029996        243
+
+--반올림 관련 함수***
+☞select round(254.1638,2),round(254.1638,-2),round(254.1658,0) from dual;
+ROUND(254.1638,2) ROUND(254.1638,-2) ROUND(254.1658,0)
+----------------- ------------------ -----------------
+           254.16                300               254
+
+☞select trunc(254.1638,2),trunc(254.1638,-2),trunc(254.1658,0) from dual;
+TRUNC(254.1638,2) TRUNC(254.1638,-2) TRUNC(254.1658,0)
+----------------- ------------------ -----------------
+           254.16                200               254
+
+☞select floor(10.99),ceil(10.1) from dual;
+FLOOR(10.99) CEIL(10.1)
+------------ ----------
+          10         11
+
+--사원명,급여,월급여(급여/12),세금(급여의 9%)을 추출
+--단, 월급여는 십단위에서 반올림하고, 세금은 일단위에서 절삭
+☞select saname "사원명" ,sapay "급여" ,round((sapay/12),-2) "월급여", trunc((sapay*0.09),-1) "세금" from sawon;
+
+2. 문자열 함수
+☞select trim('bit acamedy       ') ,ltrim('    bit academy ') , rtrim( ' bit   academy') from dual;
+TRIM('BITAC LTRIM('BITAC RTRIM('BITACAD
+----------- ------------ ---------------------
+bit acamedy bit academy   bit   academy
+
+☞select length('비트 acamedy'),lengthb('비트 acamedy')  from dual;
+LENGTH('비트ACAMEDY') LENGTHB('비트ACAMEDY')
+--------------------- ----------------------
+                   10                     12
+
+--instr(문자열,찾은문자,검색시작위치,N번째)
+ ☞select ename "이름 " from emp where (instr(ename,'L',1,2)>0) and (instr(ename,'L',1,3)=0) 
+
+--채우기 함수*** lpad & rpad(문자열,전체크기,채울문자)
+☞col name format a20 //col 컬럼명 format aXX(byte) :컬럼크기 조절
+☞select saname,lpad(saname,20,'#') name ,rpad(saname,20,'#')name  from sawon;
+
+SANAME     NAME                 NAME
+---------- -------------------- --------------------
+홍길동     ##############홍길동 홍길동##############
+한국남     ##############한국남 한국남##############
+이순신     ##############이순신 이순신##############
+이순라     ##############이순라 이순라##############
+놀기만     ##############놀기만 놀기만##############
+류별나     ##############류별나 류별나##############
+채시라     ##############채시라 채시라##############
+이성계     ##############이성계 이성계##############
+무궁화     ##############무궁화 무궁화##############
+임꺽정     ##############임꺽정 임꺽정##############
+깨똥이     ##############깨똥이 깨똥이##############
+
+--사원명,급여,급여그래프(급여의 100의 '*')를 추출
+☞select saname,sapay ,lpad('*',sapay/100,'*') "급여그래프" from sawon;
+
+--문자열 추출함수***** substr(문자열 ,N번째,N개)
+☞select substr('bit academy',3,4) from dual;
+
+--고객명,주민번호,주민번호1(00000-*******),주민번호2(***** -3182518)를 추출
+☞select goname "고객명", gojumin "주민번호",
+rpad(substr(gojumin,1,7),14,'*') "주민번호1",
+lpad(substr(gojumin,7,14),14,'*') " 주민번호2" 
+from gogek;
+
+3. 조건 함수
+-decode(기준값,조건1,결과1,조건2,결과2,.....,그외 결과)  "컬럼명"
+-case [기준값] when 조건1 then 결과1 when 조건2 then 결과2....else 그외 결과 end " 컬럼명"
+        범위조건인 경우 기준값은 생략가능!!
+
+
+--고객명,전화번호,셩별을 추출(decode)
+☞select goname "고객명" , gotel "전화번호" ,decode(substr(gojumin,8,1),'1','남자','2','여자') "성별" from gogek;
+
+--사원명,급여,보너스를 추출(case)
+단,보너스를 급여가 0~1000 ->급여의 10%
+		1000~2000 ->급여의 15%
+		2000~ ->급여의 20%
+		NULL ->0
+☞select saname "사원명", sapay "급여", 
+case when sapay sapay <1000 then sapay*0.1 
+when sapay <=2000 then sapay*0.15 
+when sapay >2000 then sapay*0.2 
+else 0 end "보너스" 
+from sawon;
+
+4. 변환 함수
+
+--날짜 관련 형식
+날짜 앞 fm 붙이면 정렬 됨
+-fm, sp, th
+select sysdate, to_char(sysdate,'fmyyyy.mm.ddth day am hh:mi:ss') from dual;
+
+//fm붙이면 09에서 0이 사라짐(영문요일인 경우 보기좋게 출력), th를 붙이면 th가 붙어서 나옴
+//sp를 붙이면 영어로 나옴
+
+☞select sysdate, to_char(sysdate,'year') from dual;
+
+SYSDATE  TO_CHAR(SYSDATE,'YEAR')
+-------- ------------------------------------------
+21/06/14 twenty twenty-one
+
+☞select sysdate, to_char(sysdate,'yyyy') from dual;
+SYSDATE  TO_C
+-------- ----
+21/06/14 2021
+
+☞select sysdate, to_char(sysdate,'yy') from dual;
+SYSDATE  TO
+-------- --
+21/06/14 21
+
+☞select sysdate, to_char(sysdate,'month') from dual;
+SYSDATE  TO_CHA
+-------- ------
+21/06/14 6월
+
+☞select sysdate, to_char(sysdate,'mon') from dual;
+SYSDATE  TO_CHAR(
+-------- --------
+21/06/14 6월
+
+☞select sysdate, to_char(sysdate,'mm') from dual;
+SYSDATE  TO
+-------- --
+21/06/14 06
+
+☞select sysdate, to_char(sysdate,'q') from dual;	//분기
+SYSDATE  T
+-------- -
+21/06/14 2
+
+☞select sysdate, to_char(sysdate,'d') from dual;	//2(1-일요일 , 2- 월요일) 요일이 숫자 (정렬를 하기위해)
+SYSDATE  T
+-------- -
+21/06/14 2
+
+☞select sysdate, to_char(sysdate,'day') from dual;
+SYSDATE  TO_CHAR(S
+-------- ---------
+21/06/14 월요일
+
+☞select sysdate, to_char(sysdate,'dy') from dual;
+SYSDATE  TO_C
+-------- ----
+21/06/14 월
+
+☞ select sysdate, to_char(sysdate,'ddd') from dual;
+SYSDATE  TO_
+-------- ---
+21/06/14 165
+
+☞select sysdate, to_char(sysdate,'hh') from dual;
+SYSDATE  TO
+-------- --
+21/06/14 05
+
+☞select sysdate, to_char(sysdate,'hh24') from dual;
+SYSDATE  TO
+-------- --
+21/06/14 17
+
+☞select sysdate, to_char(sysdate,'am') from dual;
+SYSDATE  TO_C
+-------- ----
+21/06/14 오후
+
+☞select sysdate, to_char(sysdate,'pm') from dual;
+SYSDATE  TO_C
+-------- ----
+21/06/14 오후
+
+☞select sysdate, to_char(sysdate,'miss') from dual;
+
+--숫자관련 형식(0-값이 없어도 출력,9-값이 없으면 출력안됨)
+☞select saname, to_char(sapay,'9,990') from sawon;
+
+5. 날짜 함수
+☞select last_day(sysdate) ,next_day(sysdate,'월'), add_months(sysdate,3) from dual;
+
+LAST_DAY NEXT_DAY ADD_MONT
+-------- -------- --------
+21/06/30 21/06/21 21/09/14
+
+--날짜와 날짜 사이의 개월수를 반환하는 함수
+☞select saname, sahire, months_between(sysdate,sahire) from sawon;
+SANAME     SAHIRE   MONTHS_BETWEEN(SYSDATE,SAHIRE)
+---------- -------- ------------------------------
+홍길동     80/01/01                     497.442954
+한국남     88/11/01                     391.442954
+이순신     85/03/01                     435.442954
+이순라     90/05/01                     373.442954
+놀기만     96/06/01                     300.442954
+류별나     89/12/01                     378.442954
+채시라     93/10/01                     332.442954
+이성계     84/05/01                     445.442954
+무궁화     96/11/01                     295.442954
+임꺽정     88/04/01                     398.442954
+깨똥이     90/05/01                     373.442954
+
+--사원명,입사일,근무기간(XX년 XX개월)추출
+select saname 사원명, sahire 입사일, floor(months_between(sysdate, sahire)/12) ||'년 '|| 
+                   floor(mod(months_between(sysdate,sahire),12)|| '개월' "근무 기간" from sawon;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+1. select saname "이름" ,to_char(next_day(add_months(sahire, 6), '월요일'), 'day, "the" ddSPTH "of" month, YYYY','NLS_DATE_LANGUAGE=ENGLISH') "REVIEW" from   sawon;
+
+2. select saname "이름 ", round(months_between(sysdate,sahire),0)  "MONTHS_WORKED" from sawon order by MONTHS_WORKED desc;
+
+3. select saname "이름", sahire "입사일" ,to_char(sahire ,'day') "DAY" from sawon order by to_char(sahire-1,'d');
+
+4. select sajob "JOB" , decode(sajob,'회장','A','부장','B','과장','C','대리','D','사원','E') "GRADE" from sawon;
+
+5. select to_char(sysdate,'yyyy')||'년'||to_char(sysdate,'mm')||'월'||to_char(sysdate,'dd')||'일'|| to_char(sysdate,'day') " 오늘날짜" from dual;
+
+6. select saname "이름", floor(sysdate-sahire) 근무일수 from sawon;
+
+7. select trunc(sum(sysdate-sahire),0) "총근무일수" from sawon where sajob ='사원';
+
+8. select saname "이름" , sahire"입사일", last_day(sahire) - sahire "첫달근무일수" from sawon;
+
+9. select saname "이름", sahire "입사일", floor(months_between(sysdate, sahire)/12) || '년 ' ||  floor(mod(months_between(sysdate, sahire),12)) || '개월' as "근무기간"from sawon;
+
+10.  select saname "사원명", sahire "입사일", floor(floor(sysdate -sahire)/7) || '주 ' || floor(mod(sysdate-sahire,7)) || '일' as "근무기간"from sawon;
