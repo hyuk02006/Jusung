@@ -1,0 +1,78 @@
+Group Function
+
+1. select  avg(sal) "평균",max(sal) "최고액" , min(sal) "최저", sum(sal) "합계" from emp;
+
+2. select count(*) "인원수" , sum(comm) "COMM합계" , avg(comm) "COMM평균" ,count(distinct deptno) "등록부서수" from emp;
+
+3. select job"부서명",count(*) "인원수" ,avg(sal) "평균급여", min(sal) "최저급여", max(sal) "최고급여" from emp group by job;
+
+4. select job"부서명",count(*) "인원수" ,avg(sal) "평균급여", min(sal) "최저급여", max(sal) "최고급여" from emp where sal >=3000 group by job;
+
+5.select  job "1500이하부서" , min(sal) "최소급여" from emp where deptno =10 or deptno =30 group by job having min(sal)<=1500;;
+
+6.select count(job) "부서별 인원", sum(sal) "급여합" from emp group by job  having count(*) >=4;
+
+7.select job "업무" , sum(sal)"합계" from emp where job != 'salesman' group by job having sum(sal) >=5000 order by sal desc;
+
+8.select max(avg(sal))"부서최대평균급여" , max(sum(sal)) "부서최대급여", max(sal) "전체최대급여",min(sal)"전체최소급여" from emp group by job,sal;
+
+9.select job, to_char(sum(decode(deptno,10,sal)),'fm9,999') "DEPTNO10",to_char(sum(decode(deptno,20,sal)),'fm9,999') "DEPTNO20", to_char(sum(decode(deptno,30,sal)),'fm9,999') "DEPTNO30",to_char(sum(sal),'fm9,999') "total" from emp group by job;
+
+10. select count(case when sal>3000 then 1 end )"3000초과",count(case when sal>=2001 and sal <=3000 then 1 end) " 2001~3000",count(case when sal>=1001 and sal<=2000 then 1 end ) "1001~2000", count(case when sal<=1000 then 1 end) "1000이하 " from emp;
+
+11. select avg(sal) "급여평균" , job "업무" , mgr "매니저" , deptno " 부서"  from emp  group by grouping sets((deptno, sal), (job, sal), (mgr,sal));
+
+12. select deptno "부서" , job "업무" , mgr "매니저" ,count(*) "인원수" from emp group by grouping sets((deptno,job),(deptno,mgr));
+
+13. select deptno "부서"  , job "업무" , sum(sal) "합" , avg(sal) "평균" from emp group by grouping sets((job,deptno),(job));
+
+14. select sum(sal)"전체합계" ,deptno"부서별합계",job"업무별합계" from emp group by cube(deptno,job);
+
+15. select sum(decode(job,'MANAGER',sal)) "부서별매니저합계", deptno"부서별합계", sum(sal)"전체합계" from emp group by rollup(deptno);
+
+16. select job, count(*) "사람의수"  from emp group by job;
+
+17.select count(distinct mgr) as "Number of Managers" from emp;
+
+
+
+JOIN
+
+1. select e.empno "사번" ,e.ename "사원이름" , e.job "업무"  ,e.deptno "부서번호" ,d.dname "부서명" ,d.loc "근무지" from dept d , emp e;
+
+2. select e.empno "사번" ,e.ename "사원이름", e.job "업무" ,e.deptno "부서번호" ,d.dname "부서명" ,d.loc "근무지" from dept d, emp e where e.deptno = d.deptno(+);
+
+3. select e.empno  "사번", e.ename "사원이름", e.sal "급여" , d.dname "부서명" , d.loc "근무지" from emp e, dept d where e.job = 'SALESMAN' and e.deptno = d.deptno;
+
+4. select e.ename "사원이름" , e.job "사원업무" , e.sal "사원급여" , s.losal "하한 값" , s.hisal "상한 값" from emp e, salgrade s where e.sal<s.hisal and e.sal > s.losal;
+
+5. select e1.empno "사원번호" , e1.ename "사원명", e1.mgr "상사번호",e2.ename "상사이름" from emp e1, emp e2 where e1.mgr = e2.empno(+);
+
+6. select e1.ename "사원이름" ,e1.empno "사원번호", e1.mgr "상사번호" , e2.ename "상사이름" from emp e1, emp e2 where e1.mgr = e2.empno and e1.empno = 7698;
+
+7. select decode(e.deptno,10,e.ename) "이름",decode(e.deptno,10,e.job) "업무" , decode(e.deptno,10,e.sal) "급여",decode(e.deptno,10,d.dname)  "부서명" from emp e , dept d where e.deptno = d.deptno;
+
+8. select e.ename "사원이름" , e.job "사원업무" , e.sal "사원급여" , d.dname "부서명" from emp e , dept d where e.comm is not null and e.comm > 0 and e.deptno = d.deptno;
+
+9. select  e.ename "사원이름" , e.job "사원업무" ,d.dname "부서명" , d.loc "근무지" from emp e , dept d where e.ename like '%L%' and e.deptno = d.deptno;
+
+10. select e.ename "사원이름" , e.job "사원업무" , e.deptno "부서번호" , d.dname "부서명",d.loc "근무지" , e.sal "급여" , s.grade "급여등급" from emp e , dept d , salgrade s where e.deptno = d.deptno and e.sal < s.hisal and e.sal > s.losal;
+
+11. select e.empno "사번" , e.ename "사원이름" , e.deptno "부서번호" , d.dname "부서명",d.loc "근무지"  from emp e , dept d where e.deptno = d.deptno and d.dname = 'SALES';
+
+12. select e.empno "사번" , e.ename "사원이름", e.sal "급여" , e.job "업무" , d.dname "부서명" , s.grade "급여등급" from emp e , dept d , salgrade s where (e.job = 'MANAGER' or e.job = 'CLERK') and e.deptno = d.deptno and e.sal < s.hisal and e.sal > s.losal;
+
+13.select e.empno "사번" , e.ename "사원이름" , e.mgr "상사번호", m.ename "상사이름" ,  m.job "상사업무" from emp e, emp m where e.empno = m.mgr(+); 
+
+14. select e.hiredate "사원입사일" , e.ename "사원이름" , m.ename "상사이름", m.hiredate "상사입사일" from emp e, emp m where e.empno =m.mgr and e.hiredate < m.hiredate;
+
+15. select e.ename "ename" , d.dname "dname" , trunc(e.sal/100) , lpad('*',e.sal/100,'*') "STAR" from emp e, dept d where e.deptno = d.deptno;
+
+16. select e.empno "사원번호",e.ename "사원이름", e.sal "사원급여" ,  e1.grade "사원급여등급" , m.empno "상사번호", m.ename "상사이름", m.sal "상사급여" ,  m1.grade "상사급여등급" 
+from emp e, emp m, salgrade e1 , salgrade m1 where e.mgr = m.empno(+) and e.sal >= e1.losal and  e.sal <=e1.hisal and m.sal >= m1.losal and  m.sal <=m1.hisal; 
+
+17. select e.empno "사원번호" , e.ename "사원이름" , e.sal "사원의급여", e1.grade "사원급여등급" , m.empno "상사번호" , d.dname "상사부서명"
+from emp e, emp m , salgrade e1 , dept d where e.mgr = m.empno(+) and e.sal >= e1.losal and  e.sal <=e1.hisal and m.deptno = d.deptno(+);
+
+18. select e.empno "사원번호" , e.ename "사원이름" , e.deptno "사원부서번호" , d.dname "사원부서명" , m.ename "상사이름" , m.deptno "상사부서번호" , d1.loc "상사근무지역" 
+from emp e, emp m, dept d, dept d1 where e.mgr = m.empno(+) and e.deptno = d.deptno(+) and m.deptno = d1.deptno(+) ;
