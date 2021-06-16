@@ -1,0 +1,49 @@
+1.EMP테이블에서 모든 SALESMAN에 대하여 급여의 평균, 최고액, 최저액, 합계를 구하여 출력하라.
+select avg(sal) 급여평균, max(sal) 최고액, min(sal) 최저액, sum(sal) 합계 from emp where job='SALESMAN';
+ 
+2.EMP 테이블에 등록되어 있는 인원수,COMM의 합계,전체 사원의 COMM 평균, 등록되어 있는 부서의 수를 구하여 출력하라.
+select count(*) 인원수, sum(comm) COMM합계, avg(nvl(comm,0)) COMM평균, count(distinct deptno) 등록된부서수 from emp;
+
+3.부서별로 인원수, 평균급여, 최저 급여, 최고 급여를 구하여라.
+select deptno 부서번호, count(*) "인원수", avg(sal) "평균급여", min(sal) "최저급여", max(sal) "최고급여" from emp group by deptno;
+ 
+4.3번 문제에서 최대 급여가 3000 이상인 부서별로 출력하라.
+select deptno 부서번호, count(*) "인원수", avg(sal) "평균급여", min(sal) "최저급여", max(sal) "최고급여" 
+from emp group by deptno having max(sal)>=3000;
+ 
+5.10번과 30번 부서에서 업무별 최소급여가 1500 이하인 업무와 최소급여를 출력하라.
+select deptno "부서번호", job "업무", min(sal) "최소급여" from emp
+where deptno=10 or deptno=30 group by deptno,job having min(sal)<=1500;
+ 
+6.부서별 인원이 4명 이상인 부서별 인원수, 급여의 합을 출력하라.
+select deptno "부서번호", count(*) "인원수", sum(sal) "급여합" from emp group by deptno having count(*)>=4;
+ 
+7.전체 급여가 5000을 초과하는 각 업무에 대해 업무와 급여 합계를 출력하라. 단, SALESMAN은 제외하고 급여 합계를 내림차순으로 정렬하라.
+select job "업무", sum(sal) "급여합계" from emp where job!='SALESMAN' group by job having sum(sal)>5000 order by 2 desc; 
+
+8.부서별 평균 중 최대평균급여, 부서별 급여의 합 중 최대급여, 전체 급여에서 최소 급여, 전체 급여 에서 최대 급여를 출력하라.
+select max(avg(sal)) "최대평균급여", max(sum(sal)) "최대급여합", min(min(sal)) "최소급여", max(max(sal)) "최대급여" from emp group by deptno;
+
+9.부서별 업무별 급여의 평균을 출력하는 SELECT문장을 작성하라. (세자리 구분기호)
+select job "JOB", to_char(sum(decode(deptno,10,sal,0)),'99,999') deptno10, to_char(sum(decode(deptno,20,sal,0)),'99,999') deptno20, to_char(sum(decode(deptno,30,sal,0)),'99,999') deptno30, to_char(sum(sal),'9,999') "TOTAL" from emp
+group by job;
+
+10.급여가 1000 이하인 인원수,1001에서 2000 사이의 인원수,2001에서 3000 사이의 인원수,3000 초과인 인원수를 출력하시오.
+select count(case when sal>3000 then 1 end) "3000초과", count(case when sal>2000 and sal<=3000 then 1 end) "3000~2001", count(case when sal>1000 and sal<=2000 then 1 end) "2000~1001", count(case when sal<=1000 then 1 end) "1000이하" from emp;
+
+11.업무와 부서별 급여의 합과 평균을 출력하고 업무별 급여 합과 평균을 함께 출력(Grouping sets 이용)
+select job "업무", deptno "부서번호", sum(sal) "급여합", avg(sal) "급여평균" from emp group by grouping sets((job,deptno),job);
+ 
+12.전체합계, 부서별 합계, 업무별 합계,업무별 부서별 합계 순서로 출력하라.
+select deptno, job, sum(sal) from emp group by cube(deptno, job) 
+order by grouping(job) desc, grouping(deptno) desc;
+
+13.부서별 매니저 별 합계, 부서별 합계, 전체 합계 순서로 출력하라.
+select deptno, mgr, sum(sal), grouping(mgr) 부서별, grouping(deptno) 전체합계 from emp group by rollup(deptno,(deptno,mgr));
+
+14.직위가 동일한 사람의 수를 표시하는 질의를 작성한다.
+select job, count(*) from emp group by job;
+
+15.관리자 목록 없이 관리자 수만 표시하고 열 이름을 Number Of Managers로 지정한다.
+select count(distinct mgr) "Number Of Managers" from emp;
+
