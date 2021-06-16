@@ -1,0 +1,24 @@
+1. select empno "사번", ename "이름" ,sal "급여" from emp where job =(select job from emp where ename = 'ALLEN');
+2. select empno "사번", ename "이름" ,sal "급여", hiredate "입사일", job "담당업무" from emp where job=(select job from emp where empno=7521) and sal>(select sal from emp where empno=7934);
+3. select empno "사번", ename "이름" ,sal "급여" ,deptno "부서번호" from emp where sal<(select avg(sal) from emp);
+4. select deptno "부서번호", min(sal) "최소급여" from emp group by deptno having min(sal)>(select min(sal) from emp where deptno=20);
+5. select job "업무" , avg(sal) "평균급여" from emp group by job having avg(sal)=(select min(avg(sal)) from emp group by job);
+6.select empno "사번", ename "이름" , job "업무" , hiredate "입사일" , deptno "부서명" from emp e where sal = (select max(sal) from emp t where t.job = e.job);
+7. select empno "사번" , ename "이름" ,job "업무", hiredate "입사일" , sal "급여" ,deptno "부서번호" from emp where sal >(select min(sal) from emp where deptno =30) and deptno != 30;
+8.select sal "급여" , comm "보너스" from emp where (sal , comm) in (select sal , comm from emp where deptno = 30) and deptno != 30;
+9. select ename "이름" ,hiredate "입사일자" from emp where deptno = (select deptno from emp where ename ='BLAKE');
+10.select empno "사번", ename "이름", sal "급여" from emp where sal > (select avg(sal) from emp) order by sal desc;
+11. select empno "사번" ,ename "이름" , sal "급여",  from emp where 
+12. select ename "이름", job "업무", sal "급여" from emp where deptno = (select deptno from dept where loc = 'CHICAGO');
+13. select ename "이름" , sal "급여" from emp where mgr=(select empno from emp where ename='KING');
+14.select * from emp where job = (select job from emp where ename = 'FORD');
+15. select ename "이름" ,job "업무", sal "급여" ,deptno "부서번호" from emp where job =(select job from emp where ename ='JONES') or sal >=(select sal from emp where ename ='FORD');
+16.select ename "이름", job "업무" , sal "급여" from emp where sal = (select sal from emp where ename = 'SCOTT') or sal = (select sal from emp where ename = 'WARD');
+17. select ename "이름" , job "업무" , sal "급여",deptno "부서번호" from emp where job in (select job from emp  natural join dept where dname ='SALES');
+18.select deptno "부서번호" , ename "이름" , sal "급여", (select avg(sal) from emp where e.job = job) from emp e where sal < (select avg(sal) from emp where e.job = job);
+19.select empno "사번" , ename "이름" , dname "부서명" ,(select count(1) from emp e  where e.deptno = e2.deptno) "소속부서 인원수" , job "업무" , (select avg(sal) from emp e1 where e1.deptno = e2.deptno) "소속 업무 급여 평균" , sal from emp e2,dept d where e2.deptno = d.deptno;
+20 select empno "사번" , ename "이름", deptno "부서번호" , job "업무" , sal "급여" , (select avg(sal) from emp e2 where e1. deptno = e2.deptno) from emp e1;
+21. select empno  "사번" , ename "이름" , hiredate "입사일" , sal "급여" from emp e1 where (select count(empno) from emp e2 where  e2.mgr = e1.empno) > 0
+22.select empno "사번"  , ename "이름" , job "업무", deptno "부서명" from emp e1 where not exists (select empno from emp e2 where  e2.mgr = e1.empno);
+23.select ename "이름" , job "업무" , mgr "상사" from emp connect by prior empno = mgr start with ename = 'BLAKE';
+24.select ename "이름" , job "업무" , mgr "상사" from emp where mgr = (select mgr from emp where ename = 'BLAKE' );
