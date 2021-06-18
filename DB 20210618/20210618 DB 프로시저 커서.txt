@@ -1,0 +1,244 @@
+*커서
+--같은 작업하는 행단위의 테이블을 커서로 정의하여 일괄처리 가능
+
+-for문을 사용한 커서
+begin
+	for i in mycur loop
+		dbms_output.put_line('이름:'|| i.saname || ',급여 :'|| i.sapay);
+		
+	end loop;
+
+end;
+/
+
+============================================================
+-fetch문을 사용한 커서
+declare
+	cursor mycur is select saname, sapay from sawon;
+	v_name sawon.saname%type;
+	v_sapay sawon.sapay%type;
+begin
+	if mycur%isopen then
+		close mycur;
+	end if;
+	open mycur;
+	loop
+		fetch mycur into v_name,v_sapay;
+		exit when(mycur%notfound);
+		반목할 명령들...
+	end loop;
+
+end;
+/
+
+============================================================
+--모든 사원의 이름과 급여를 출력하는 커서를 정의
+SET serveroutput ON
+declare
+	cursor mycur is select sabun, sapay from sawon;
+	v_comm sawon.comm%type;
+	cnt number(3);
+begin
+	
+	for i in mycur loop
+	if (i.sapay < 1000) then
+		v_comm:=i.sapay*0.1;
+	elsif ( i.sapay <= 2000)  then
+		v_comm:=i.sapay*0.15;
+	elsif(i.sapay > 2000) then
+		v_comm:=i.sapay*0.2;
+	else
+		v_comm:=0;
+	end if;	
+		update sawon set comm  =v_comm where sabun=i.sabun;
+		cnt := mycur%rowcount;
+	end loop;
+
+	dbms_output.put_line('변경된 사원의 수는' ||cnt||'명입니다!');
+
+end;
+/
+--%rowtype 속성은 for문은 반복문안에 .fetch문은 반복문 밖에 사용해야함
+
+============================================================
+--학생 테이블의 데이터를 기준으로 총점, 평균, 학점(수,..), 평가(70이상 합격), 석차 계산하여
+--성적표에 입력하는 커서를 정의
+declare
+	cursor stud is select hakbun, name, kor, mat, eng from student;
+	n_tot record.total%type;
+	n_ave record.ave%type;
+	v_hak record.hakjum%type;
+	v_gra record.grade%type;
+begin
+	for i in stud loop
+		n_tot := i.kor + i.mat + i.eng;
+		n_ave := trunc(n_tot/3, 1);
+
+		if  n_ave >=90 then
+			v_hak :='수';
+		elsif n_ave >=80 then
+			v_hak :='우';	
+		elsif n_ave >=70 then
+			v_hak :='미';
+		elsif n_ave >=60 then
+			v_hak :='양';	
+		else
+			v_hak :='가';
+		end if;	
+		if n_ave >= 70 then
+			v_gra :='합';
+		else 
+			v_gra :='불';
+		end if;	
+	
+		insert into record values(i.hakbun, i.name, i.kor, i.mat, i.eng, n_tot,n_ave, v_hak, v_gra, null);
+		
+	end loop;
+--다중 커서 정의	
+	declare
+		cursor rak is select hakbun, total from record;
+		v_s_rank record.s_rank%type;
+	begin
+		for i in rak loop
+			select count(*) into v_s_rank from record where total >i.total;
+			v_s_rank :=v_s_rank  +1;	
+		update record set s_rank =v_s_rank where hakbun =i.hakbun;
+		end loop;
+	end;
+end;
+/
+
+============================================================
+*** Procedure(프로시져)
+
+--자주 실행되는 SQL & PL/SQL을 미리 컴파일하여 저장한 객체->호출(실행)만 하여 사용
+--APP에서 가장 많이 사용되는 객체(개발자***)
+
+--목적:데이터 처리(변경=DML)->대상 테이블이 존재***
+        성능 향상(속도 빠르다)->한 번의 컴파일로 호출만 해서 사용
+        메모리 절약->동일한 프로시져를 여러 사용자가 호출하더라도 하나의 메모리 사용
+
+--테이블이 아닌 프로시져 단위의 사용권한을 부여하므로 보안성을 강화
+grant select, insert, update, delete on gogek to scott;
+grant execute on gogek_p to scott;
+
+--파라미터 변수 mode(type만 지정!-길이 지정 안 함)
+  -in mode	: 호출될 때 값이 받는 변수***
+  -out mode	: 프로시져가 실행된 결과값을 넘겨주는 변수(호출자)
+  -in out mode	: 값을 받아 실행된 후 결과를 다시 넘겨주는 변수	
+
+--형식
+create or replace procedure pro_name
+	(파라미터 변수 [(in)|out|in out] type,....)         // [] : 생략되어있음, type은 길이를 지정할 수 없음
+is
+--지역 변수 선언;
+begin
+	명령;
+end;
+/
+
+
+--에러정보
+show error procedure pro_name
+user_errors 뷰
+
+============================================================
+--사번을 입력하면 그 사원 데이터 삭제하는 프로시저
+
+create or replace procedure p_sawon_ex_del
+	(v_sabun sawon.sabun%type)'
+is
+begin
+	delete sawon_ex where sabun =v_sabun;
+	commit;
+end;
+/
+
+--호출형태
+--exec p_sawon_ex_del(12)
+
+============================================================
+--create sequence v_sabun
+ --increment by 10   
+ --start with 202	
+ --maxvalue 299;	
+
+create or replace procedure p_sawon_in
+	(v_saname sawon.saname%type ,  
+	v_sajob sawon.sajob%type,
+	v_sapay sawon.sapay%type,
+	v_sasex sawon.sasex%type, 
+	v_samgr sawon.samgr%type,
+	v_dename dept.dname%type)
+
+is
+begin
+	--if v_dename = '영업부' or v_dename ='관리부' then
+	--v_comm :=v_sapay*0.1;
+	--else
+	--v_comm:=0;
+	--end if;
+
+	insert into sawon(sabun,saname,deptno,sajob,sapay,sahire,sasex,samgr,comm)
+		 values(v_sabun.nextval,v_saname,(select deptno from dept where dname =v_dename)
+			,v_sajob,v_sapay,sysdate,v_sasex,v_samgr,
+			case v_dename when '영업부' then v_sapay *0.1 when '관리부' then v_sapay*0.1 else 0 end);
+
+end;
+/
+
+--out mode가 있는 프로시져
+--입사년도를 가지고 평균급여와 인원수를 반환하는 프로시져
+create or replace procedure p_state
+	(v_hire varchar2,
+	v_res out varchar2)
+is
+	hire varchar2(10);
+	ave number(10);
+	cnt number(10);
+begin
+	select to_char(sahire,'yyyy'), round(avg(sapay),0), count(*) into hire,ave,cnt from sawon
+	where to_char(sahire,'yyyy') =v_hire
+	group by	 to_char(sahire,'yyyy');
+	
+	v_res:='입사년도: '||hire||',' ||'평균급여:' ||ave||','||'인원수:'||cnt;
+
+end;
+/
+
+--전체 이름을 가지고 이름을 제한 성만 추출하는 함수
+create or replace function f_name
+	(v_name varchar2)
+	return varchar2
+is
+begin
+	return substr(v_name,1,1);
+end;
+/
+
+--주민번호를 가지고 성별을 추출하는 함수
+
+create or replace function f_gender
+   (v_jumin varchar2)
+   return varchar2
+is
+begin
+   if substr(v_jumin, 8, 1) = '1'  or substr(v_jumin, 8, 1) = '3' then
+	return '남자';
+   else
+   	return '여자';
+   end if;   
+end;
+/
+
+
+
+--숫자 데이터를 가지고 100의 '*'기준으로 추출하는 함수
+create or replace function f_star
+	(v_star number)
+	return varchar2
+is
+begin
+	return rpad('*',v_star/100,'*');
+end;
+/
