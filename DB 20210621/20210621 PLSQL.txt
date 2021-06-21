@@ -1,0 +1,105 @@
+*** 트리거 
+-업무 자동화 기능
+-특정 테이블에 지정한 이벤트(DML)가 발생하면 자동으로 호출되는 명령들 객체 (호출문 없다)
+-데이터 흐름 제어문(TCL)은 사용 할 수 없다(기본값)
+
+-목적
+1.데이터 무결성 구현(제약조건으로 구현할 수 없는 경우)
+2.업무의자동화(연쇄작용 예-급여계산,보험계산,재고관리 등 업무에 사용)
+3.데이터 복제기능
+4.이벤트를 발생한 세션의 감시
+
+- 형식
+create or replace trigger tri_name
+	[after | berfore] insert or delete or update on table_name
+	for each row
+declare
+	지역변수 선언;
+begin
+	명령;
+end;
+/
+
+===================================================================
+--create table dept_info(info varchar2(20));
+
+--dept_ex table에 insert가 발생하면 dept_info table에 [부서삭제] 문자열을 입력
+
+create or replace trigger t_dept_ex
+	after insert on dept_ex
+	for each row
+begin
+	insert into dept_info values('부서입력');
+end;
+/
+
+===================================================================
+--트리거를 이용한 복제구현(동기화구현)
+--create table dept_bk as select * from dept;
+
+--dept table에 insert가 발생하면, dept_bk_table에 insert가 발생
+create or replace trigger t_dept_bk
+	after insert or delete or update on dept //update of eid on emp
+	for each row
+begin
+	if inserting then
+		insert into dept_bk values(:new.deptno,:new.dname,:new.loc);
+	elsif deleting then    
+		delete dept_bk where deptno = :old.deptno;
+	elsif updating then
+		update dept_bk set deptno = :new.deptno,dname  = :new.dname, loc = :new.loc 
+		where deptno = :old.deptno;
+	end if;
+end;
+/
+
+--입력된 테이블의 행의 컬럼값 - [:new.컬럼명]
+--삭제된 테이블의 행의 컬럼값 - [:old.컬럼명]
+
+===================================================================
+-- update cascade 구현
+
+-- 부서 테이블에 부서번호가 변경되면, 사원 테이블의 그 부서를 참조하는 사원들의 부서번호도 함께 변경
+create or replace trigger t_deptno
+	after update of deptno on dept
+	for each row
+begin
+	update sawon set deptno=:new.deptno where deptno=:old.deptno;
+end;
+/
+
+===================================================================
+-- 사원이 급여를 변경하면. ***
+-- 1. 에러 메세지 출력(급여를 변경할 수 없도록!)
+-- 2. 변경한 세션명, 날짜(시간포함), 변경사원번호, 변경전 금액, 변경후 금액 정보를 black_list 테이블 입력(black_list 테이블 생성)
+--    문제> 급여는 변경불가 + 기록 
+-- 3. 변경하려는 급여 금액이 기존급여보다 적거나 기존급여의 10%를 초과하면 에러 출력
+-- 4. 3번문제에 단, 직책이 부장은 제외
+
+-- raise_application_error(에러번호, '메세지');		// rollback 포함, 프로그램 종료 동반
+--		        20001~20999, '2048Byte'
+
+create table black_list(username varchar2(10) default user, event_date varchar2(20) default to_char(sysdate, 'yyyy-mm-dd hh24:mi:ss'),
+		   sabun number(3), 
+		   sapay number(10), upsapay number(10));
+
+create or replace trigger t_gogek_insert
+	before update of sapay on sawon
+	for each row
+	when (new.sajob != '부장')
+declare
+	PRAGMA AUTONOMOUS_TRANSACTION;
+begin
+--	insert into black_list(sabun, sapay, upsapay) values(:new.sabun, :old.sapay, :new.sapay);
+--	commit;
+--	raise_application_error(-20001, '급여는 변경할 수 없으며, 변경을 시도한 기록은 남겨졌습니다!');
+
+--  if(:new.sajob != '부장') then
+   	if (:new.sapay < :old.sapay) or (:new.sapay > :old.sapay*1.5)  then
+     		raise_application_error(-20001, '급여가 범위안의 값이 아닙니다!');
+	end if;
+end;
+/
+
+
+
