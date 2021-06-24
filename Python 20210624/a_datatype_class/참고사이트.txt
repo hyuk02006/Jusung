@@ -1,0 +1,11 @@
+﻿도움말 : ctrl + q
+
+[참고 사이트]
+    공식     https://docs.python.org/ko/3/tutorial/
+
+
+    https://dojang.io       -> 회원가입하고 퀴즈문제 하나씩 푸는 것이 도장깨는 것인가
+    https://wikidocs.net/
+    http://pythonstudy.xyz/
+
+[참고] 파이썬 정규식 표현 : https://wikidocs.net/4308
