@@ -1,0 +1,4 @@
+import matplotlib.pyplot as plt
+import numpy as np
+plt.plot(np.random.randn(10)) #plot() : 그래프 그리기, randn(10) : 10개 랜덤 난수 생성
+plt.show()
