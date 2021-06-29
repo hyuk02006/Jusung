@@ -1,0 +1,4 @@
+
+- 파이썬으로 데이타 주무르기 저자 블로거에서도 matplotlib seaborn 정리 잘 되어 있음
+
+	http://pinkwink.kr > 연재목록
