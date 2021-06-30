@@ -1,0 +1,672 @@
+main 앞에 static이 붙는이유 -> 운영체제에서 main을 들어가기 위해
+C# 에서는 소멸자가 의미가없음
+Class 안에 들어가는 3가지
+-생성자
+-멤버변수 (필드)
+-메소드 
+
+namespace _20210630.NET
+{
+    class Program
+    {
+        // 생성자
+        Program()
+        {}
+
+        //멤버 변수
+        static int num;
+
+        //멤버 메소드
+        static void m1()
+        {
+            //출력
+            Console.WriteLine(num);
+        }
+        static void Main(string[] args)
+        {
+            num = 10;
+            m1();
+        }
+    }
+}
+
+===============================================================
+//예제 2) new 
+namespace _20210630.NET
+{
+    class Tiger
+    {
+
+    }
+    class Lion
+    {
+        Tiger t;
+        Lion t2;
+        void m1()
+        {
+            Lion t3 = new Lion();
+        }
+    }
+
+    class Program
+    {
+        Program()
+        {
+            Console.WriteLine("생성자호출");
+        }
+        static void Main(string[] args)
+        {
+            //여기서 메모리가 필요하다.
+            Program p = new Program();
+          
+        }
+    }
+}
+
+===============================================================
+//wl = WriteLine 단축키
+//for tab tab 단축키
+
+WriteLine("{0}독{0}수{1}리{1} \n",10,20);
+WriteLine("독{0:d4}수{1:d3}리\n",10,20);
+
+// type(실제로는 클래스(객체임))
+byte a1;    //0~255
+sbyte a2;   //-128 ~127
+short a3;   
+ushort a4;  //양수만
+int a5;     //4byte
+uint a6;
+long a7;    //8byte
+ulong a8;   //양수만
+char a9 ='한';//2byte
+
+float a10 = 3.14f;  //4byte
+double a11 = 3.14;  //8byte
+decimal a12 = 3.14m;//16byte
+
+bool a13 = false;
+
+
+===============================================================
+//$ = { } 사이에 외부 변수를 넣을 수 있음
+WriteLine($"{a},{b}");
+
+
+
+WriteLine(0b10);    //2진수 표기법
+
+
+WriteLine(10);
+WriteLine(0x10);    //16진수 표기법         
+// 1010, 0xd
+// 0101 0111
+WriteLine(0b_0101_0111);    //2진수 표기법         
+
+===============================================================
+//예제3 대입연산자는 반드시 쌍방간에 타입이 동일해야한다.
+  class Tiger
+    {
+    }
+    class Program
+    {
+        // int a = 1000; -> 대입연산자로 쓸수 있는것은 인수로 쓸 수 있음
+        static void m1(int a, Tiger t)
+        {
+        }
+        static void m2(int a)
+        {
+        }
+        static void Main(string[] args)
+        {     
+            long a = 10;
+            // 대입연산자는 반드시 쌍방간에 타입이 동일해야한다.
+            // 받는 타입으로 맞추어 준다.
+            // 타입캐스팅
+            int b = (int)a;
+            Tiger t = new Tiger();
+            m1(1000, t);
+            m1(1000, new Tiger());
+
+	// 문법이 성립한다면 
+            int a =for() { };
+            m2(for () { });
+           
+        }
+    }
+
+//xor
+WriteLine(false ^ false);
+WriteLine(false ^ true);
+WriteLine(true ^ false);
+WriteLine(true ^ true);
+
+===============================================================
+//예제4) 삼항연산자
+   int a = 10 , b = 20;
+            int c;
+            if(a >b)
+            { c = a; }
+            else 
+            { c = b; }
+            c = a > b ? a : b;
+
+            if (a > b)
+            {
+                WriteLine("호랑이");
+            }
+            else
+            { 
+                WriteLine("코끼리");  
+            }
+                WriteLine(a > b ? "호랑이":"코끼리");
+
+            int num = -10;
+            int abs = num >= 0 ? num : -num;
+	}
+
+ int m1(int a, int b)
+        {
+            //if (a > b)
+            //{
+            //    return 100;
+            //}
+            //else
+            //{
+            //    return 200;
+            //}
+
+            return a > b ? 100 : 200;
+        }
+
+===============================================================
+//예제5) nullable 문법
+ class Tiger { }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger t1 = new Tiger();
+            //객체가 아니다.
+            Tiger t2 = null;
+
+            // 나중에 사용
+            t2 = new Tiger();
+            t2 = null;
+
+            //int a = null;   //에러
+            //int b = 10;
+            //b = null;       //에러
+
+            // 경고
+            //int c = 10;
+            //if(c == null)
+            //{
+            //    WriteLine(c.ToString("123"));
+            //}
+
+            //nullable 형식
+            int? a = null;
+            int? b = 10;
+            b = null;
+            int? c = 20;
+            c = null;
+            if(c ==null)
+            {
+                WriteLine(1000);
+            }   
+        }
+    }
+
+
+===============================================================
+//예제6) 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int? a = null;
+            int? b = 10;
+            int c = 20;
+
+            WriteLine(a.HasValue);
+            WriteLine(b.HasValue);
+            //문법 자체 사용 X
+            //WriteLine(c.HasValue);
+            try
+            {
+                WriteLine(a.Value);
+            }            
+            catch(Exception)
+            {               
+                WriteLine("catch");
+            }
+            WriteLine("호랑이");
+            WriteLine(b.Value);
+            WriteLine(b);
+
+            //갖고 올 값이 없으면 default = 0
+            WriteLine(a.GetValueOrDefault());
+            WriteLine(b.GetValueOrDefault());
+            WriteLine(a.GetValueOrDefault(-100));
+
+            //
+            if (a==null)
+            {
+                WriteLine(-1);
+            }
+            else
+            {
+                WriteLine(a);
+            }
+            // 삼항연산
+            WriteLine(a == null ? -1 : a);
+
+            // null 통합 연산
+            WriteLine(a ?? -1);
+            WriteLine(b ?? -1);
+
+            char a 
+        }
+    }
+
+===============================================================
+//예제7) 
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            char a = 'A';
+            char b = (char)65;
+            int c = 65;
+            int d = (int)'A';
+
+            WriteLine((int)a);
+            WriteLine((int)b);
+            WriteLine((char)c);
+            WriteLine((char)d);
+
+            char? e;
+            e = 'A';
+            WriteLine( e ?? -1);
+            e = null;
+            WriteLine( e ?? -1);
+        }
+    }
+
+
+===============================================================
+//예제8) 
+
+  class Program
+    {
+        static void Main(string[] args)
+        {
+            string s1 = null;
+            //string은 원본데이터를 수정할 수 없다. --->string 객체는 값을 갱신 할 수 없다.(읽을 수 만 있음)
+            string s2 = "호랑이";
+            WriteLine(s2);
+            //기존의 s2 메모리를 삭제하여 새로 받음 (위에 s2 와 아래 s2는 다름)
+            s2 = "코끼리";
+            WriteLine(s2);
+            s2 += "독수리";
+            WriteLine(s2);
+
+            StringBuilder s;    //string 객체의 값 갱신
+
+            string s3 = new string('-',30);
+            WriteLine(s3);
+            WriteLine(new string('-', 30));
+        }
+    }
+
+===============================================================
+//예제9)
+ 
+  class Program
+    {
+        static void Main(string[] args)
+        {
+            string a = "호랑이";
+            string b = "코끼리";
+            string c = a + b;   //연산자 재정의
+            WriteLine(c);
+
+            string d = "독수리1";
+            string e ="독수리2";
+            e += d;
+            WriteLine(e);
+
+            //
+            bool b1 = "호랑이" == "호랑이";
+            WriteLine(b1);
+            WriteLine("호랑이1" == "호랑이2");
+
+            //
+            string s1 = "tiger";
+            string s2 = null;
+            WriteLine(s1==null?"널":s1);
+            WriteLine(s1 ?? "널");
+            WriteLine(s2==null?"널":s2);
+            WriteLine(s2 ?? "널");
+
+            string s3 = "1000";
+            int n3 = Convert.ToInt32(s3);
+            WriteLine(n3+1);
+
+
+            int n4 = int.Parse(s3);
+            WriteLine(n4 + 1);
+
+            // 숫자 >> 문자열
+            int n5 = 1234;
+            WriteLine(n5.ToString() + "호랑이");
+            WriteLine(123.ToString());
+            WriteLine(n5.ToString("n0"));
+            WriteLine(n5.ToString("x"));    // 16진수로 치환
+
+            int n6 = 15;
+            WriteLine(n6.ToString("00000"));
+            string s4 = string.Format("호{0}랑{1}이", 1000, 2000);
+            WriteLine(s4);
+
+            string s5 = "   한   글   ";
+            Write(s5.TrimStart());
+            WriteLine("-----");
+            Write(s5.TrimEnd());
+            WriteLine("-----");
+
+            string s6 = s5.Trim();
+            WriteLine(s5);
+            WriteLine(s6);
+
+            string s7 = "1";
+            string s8 = "10";
+            string s9 = "100";
+            WriteLine(s7.PadLeft(8));
+            WriteLine(s8.PadLeft(8));
+            WriteLine(s9.PadLeft(8));
+
+            Write(s7.PadRight(8));
+            WriteLine("=======================");
+            Write(s8.PadRight(8));
+            WriteLine("=======================");
+            Write(s9.PadRight(8));
+            WriteLine("=======================");
+
+            WriteLine(s7.PadLeft(8,'#'));
+            WriteLine(s8.PadLeft(8,'.'));
+            WriteLine(s9.PadLeft(8,'-'));
+
+            string s10 = "TigerWin";
+            WriteLine(s10.ToLower());
+            WriteLine(s10.ToUpper());
+        }
+    }
+
+===============================================================
+//예제10)
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // 문자열 연결 연산자
+            string s1 = "tiger";
+            string s2 = "lion";
+            string s3 = s1 + s2;
+
+            // 문자열 연결 함수 이용
+            string s4 = "tiger";
+            string s5 = "lion";
+            string s6 = string.Concat(s4, s5);
+            WriteLine(s6);
+
+            // 문자열 삽입
+            string s7 = "무궁화꽃이피었습니다";
+            string s8 = s7.Insert(5, "호랑이");
+            WriteLine(s7);
+            WriteLine(s8);
+
+            // 문자열 제거(Remove, delete, erase)
+            // index 3번 이후부터 제거
+            WriteLine(s7.Remove(3));
+            // index 1번부터 3개 제거
+            WriteLine(s7.Remove(1, 3));
+
+            // 검색 및 수정
+            WriteLine(s7.Replace("꽃이", "나무가"));
+
+            string s10 = "호랑이";
+            string s11 = "코끼리";
+            // 같으면 리턴값은 0이다.
+            WriteLine(s10.CompareTo("호랑이"));
+            WriteLine(s11.CompareTo("호랑이"));
+            WriteLine(s10.CompareTo("호랑"));
+
+            string s12 = null;
+            string s13 = "코끼리";
+            //WriteLine(s12.CompareTo("호랑이"));
+
+            //Compare 은 널값일때도 사용 가능
+            WriteLine(string.Compare(s12, s13));
+
+            try
+            {
+                WriteLine(s12.CompareTo("호랑이"));
+            }
+            catch (Exception)
+            {
+                WriteLine("exception 발생");
+            }
+            WriteLine(string.Compare(null, "tiger"));
+            WriteLine(string.Compare("tiger", null));
+            WriteLine(string.Compare(null, null));
+            Clear();
+            //대소 구분을 함 (3번째 인자 bool형 무시 =true  /default =false)
+            WriteLine(string.Compare("Tiger", "tiger",true));
+            WriteLine(string.Compare("Tiger", "tiger",false));
+            WriteLine(string.Compare("Tiger", "tiger"));
+
+            //Equals => true/false 를 리턴함
+            WriteLine("Tiger".Equals("Tiger"));
+            WriteLine("Tiger".Equals("Lion"));
+
+            string s14 = "무궁화꽃이피었습니다꽃이";
+            // Length() 함수가 아님
+            // Length는 멤버 변수 아님
+            // 속성(Property):Length 
+            WriteLine(s14.Length);
+        }
+    }
+===============================================================
+//예제11)
+class Tiger
+    {
+        //read write가 열린다
+        //public int num;
+
+        int num;
+        public int Num
+        {
+            set
+            {
+                num = value;
+            }
+            get
+            {
+                return num;
+            }
+        }
+
+        // setter 함수를 만든다
+        /*
+        public void setNum(int num)
+        {
+            this.num = num;
+        }
+
+        public int getNum()
+        {
+            return num;
+        }
+        */
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger t = new Tiger();
+            // 밑에 코드는 객체 지향 프로그램에서 절대 성립시키지 않는다.
+            // 멤버 변수를 public화 시키지 않는다
+            // t.num = 100
+            t.setNum(1000);
+            WriteLine(t.getNum());          
+        }
+    }
+
+===============================================================
+//예제12)
+    class Tiger
+    {
+        //read write가 열린다
+        //public int num;
+
+        int num;
+        //Num << Property
+        public int Num { set; get; }
+
+        int length;
+        public int Legnth
+        {
+            set
+            { 
+                length = value;
+            }
+            get
+            {
+                return length;
+            }
+        }
+        // setter 함수를 만든다
+        //public void setNum(int num)
+        //{
+        //    this.num = num;
+        //}
+
+        //public int getNum()
+        //{
+        //    return num;
+        //}
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger t = new Tiger();
+            // 밑에 코드는 객체 지향 프로그램에서 절대 성립시키지 않는다.
+            // 멤버 변수를 public화 시키지 않는다
+            // t.num = 100
+            t.Num = 1000;
+            WriteLine(t.Num);
+            string s = "무궁화";
+            WriteLine(s.Length);
+        }
+    }
+
+===============================================================
+//예제13)
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            string s = "무궁화꽃이피었습니다";
+            WriteLine(s.Length);
+            WriteLine(s.IndexOf("나무"));
+
+            if(s.IndexOf("나무")==-1)
+            {
+                WriteLine("못찾음");
+            }
+
+            WriteLine(s.Contains("꽃이"));
+            WriteLine(s.Contains("나무"));
+
+            WriteLine(s.StartsWith("무궁"));
+            WriteLine(s.StartsWith("궁화"));
+            WriteLine(s.EndsWith("니다"));
+            WriteLine(s.EndsWith("이다"));
+
+        }
+    }
+
+===============================================================
+//예제14)
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            DateTime newDate = DateTime.Now;
+            WriteLine(newDate.Year);
+            WriteLine(newDate.Month);
+            WriteLine(newDate.Day);
+            WriteLine(newDate.Hour);
+            WriteLine(newDate.Minute);
+            WriteLine(newDate.Second);
+            WriteLine(newDate.DayOfWeek);
+
+        }
+    }
+
+===============================================================
+//예제15)
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] ar1 = new int[3]; //무조건 이걸로 씀 
+            int[] ar2 = new int[] { 10, 20, 30 };
+            int[] ar3 = { 10, 20, 30 };
+
+            WriteLine(ar1);
+            for (int i = 0; i < ar2.Length; i++)
+            {
+                Write(ar2[i]+ " ");
+
+            }
+            WriteLine();
+
+            //var 뒤에 변수명 : item, value, data 셋중에 하나
+            foreach (var item in ar2)
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+
+            // 공유(참조)
+            // 얕은 복사
+            int[] ar4 = ar2;
+            ar4[0] = 999;
+            WriteLine(ar2[0]);
+
+            // 깊은 복사
+            int[] ar5 = (int [])ar2.Clone();
+            ar5[1] = 888;
+            WriteLine(ar2[1]);
+
+            int[,] ar6 = new int[2, 3];
+            ar6[0, 0] = 1;
+            ar6[0, 1] = 2;
+            ar6[0, 2] = 3;
+            ar6[1, 0] = 4;
+            ar6[1, 1] = 5;
+            //ar6[1, 1] = 6;
+
+            foreach (var item in ar6)
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+
+        }
