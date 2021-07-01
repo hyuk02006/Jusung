@@ -1,0 +1,457 @@
+ 예제 1)
+class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int[,] ar6 = new int[2, 3]; //ar6[2][3]
+            ar6[0, 0] = 1;
+            ar6[0, 1] = 2;
+            ar6[0, 2] = 3;
+            ar6[1, 0] = 4;
+            ar6[1, 1] = 5;
+            //ar6[1, 1] = 6;
+
+            foreach (var item in ar6)
+            {
+                Write(item + " ");
+            }
+            WriteLine(ar6.Length);
+            WriteLine(ar6.GetLength(0));    //2
+            WriteLine(ar6.GetLength(1));    //3
+
+            for (int i = 0; i < ar6.GetLength(0); i++)
+            {
+                for (int j = 0; j < ar6.GetLength(1); j++)
+                {
+                    Write(ar6[i, j] + " ");
+                }
+                WriteLine();
+            }
+            //------------------------------------------------------
+
+            string numStr = "";
+            for (int i = 1; i < 5; i++)
+            {
+                numStr += i.ToString();
+            }
+            WriteLine(numStr);
+
+        }
+    }
+
+========================================================================
+예제2) 최대값 구하기
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] ar1 = new int[] { 1, 3, 5, 7, 9, 13, 3, 6, 4, 2 };
+            
+            //내 코드
+            int nMax = ar1[0];
+     
+            for (int i = 0; i < ar1.Length; i++)
+            {
+                if (ar1[i] > nMax)
+                    nMax = ar1[i];
+            }
+            WriteLine(nMax);
+
+            //강사님 코드
+            int maxValue = int.MinValue;
+            foreach (var item in ar1)
+            {
+                maxValue = item > maxValue ? item : maxValue;
+            }
+            WriteLine("maxValue = {0}",maxValue);
+
+        }
+    }
+========================================================================
+예제3) for문 형식
+class Program
+    {
+        static void Main(string[] args)
+        {
+            // for문의 형식1
+            for (int i = 0; i < 10; i++)
+            {      
+            }
+
+            // for문의 형식2
+            for (int i = 1; i <= 10; i++)
+            {
+            }
+
+            // for문의 형식3 (n *2 +1)
+            for (int i = -5; i < 5; i++)
+            {
+            }
+
+        }
+    }
+
+========================================================================
+예제4) exception 기본 형식
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            //exception 기본 형식
+            int v = 4;
+            int d = 0;
+            int c;
+            try
+            {
+                c = v / d;
+            }
+            catch (Exception e)
+            {
+                WriteLine(e.Message);
+                c = 10;
+            }
+            WriteLine("C = {0}", c);
+            WriteLine($"{c}");
+        }
+    }
+
+========================================================================
+예제5) Collection CRUD
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList();
+
+            // C(create)RUD : add, create, insert
+            al.Add("호랑이");
+            WriteLine(al.Count);
+            al.Add("코끼리");
+            al.Add("독수리");
+            WriteLine(al.Count);
+            for (int i = 0; i < 10; i++)
+            {
+                al.Add(i * 10 + i + "한");
+                WriteLine(al[i]);
+            }
+
+            //CR(Read)UD
+            foreach (var item in al)
+                Write(item + " ");
+            WriteLine();
+        }
+    }
+
+========================================================================
+예제6)  Collection CRUD
+  class Tiger
+    {
+        string name;
+        int age;
+        public string Name { set; get; }    //프로퍼티
+        public int Age { set; get; }        //프로퍼티
+
+        public Tiger(string name, int age)  //생성자
+        {
+            this.name = name;
+            this.age = age;
+        }
+        public void showData()
+        {
+            WriteLine(name + " " + age);
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList();
+            //방법 1
+            Tiger t = new Tiger("호랑이", 10);
+            al.Add(t);
+            //방법 2
+            al.Add(new Tiger("코끼리", 10));
+            al.Add(new Tiger("독수리", 10));
+            WriteLine(al.Count);
+            foreach (Tiger item in al)
+            {
+                item.showData();
+            }
+        }
+    }
+
+========================================================================
+예제7)  Collection CRUD
+
+  class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList();
+            // C(create)RUD
+            al.Add(10);
+            al.Add(30);
+            al.Add(20);
+            WriteLine(al.Add(30));
+            int pos = al.Add(40);
+            WriteLine(pos);
+
+            //CRUD(delete)
+            al.Remove(30);  //선두에서 찾아서 젤 먼저 나온 특정 값 제거
+                            //결과 :10 20 30 40
+            for (int i = 0; i < al.Count; i++)
+            {
+                Write(al[i] + " ");
+            }
+            WriteLine();
+
+            al.RemoveAt(1); // 지정한 인덱스에서 요소를 제거 (유효범위를 벗어나면 예외 발생)
+                            // 결과:10 30 40
+            for (int i = 0; i < al.Count; i++)
+            {
+                Write(al[i] + " ");
+            }
+            WriteLine();
+
+            // C(create)RUD
+            al.Insert(1, 19);   //앞에 인자 인덱스 위치
+            for (int i = 0; i < al.Count; i++)
+            {
+                Write(al[i] + " ");
+            }
+            WriteLine();
+
+            // CRU(update)D
+            al[1] = 88;
+            for (int i = 0; i < al.Count; i++)
+            {
+                Write(al[i] + " ");
+            }
+            WriteLine();
+	 
+	 //al.Clear();	//모두 지우는 함수
+            WriteLine(al.Count);
+
+            WriteLine(al.Contains(88)); //찾으면 true
+            WriteLine(al.Contains(77)); //못찾으면 false
+
+            WriteLine(al.IndexOf(88));   //찾으면 1
+            WriteLine(al.IndexOf(77));   //못찾으면 -1
+        }
+    }
+
+========================================================================
+   class Program
+    {
+        static void Main(string[] args)
+        {
+            //string input;
+            //input = ReadLine();
+
+            //int input;            
+            //input = int.Parse(ReadLine());
+            //WriteLine(input+100);
+
+            WriteLine(1);
+            int b = Convert.ToInt32(null);
+            WriteLine(b);   // 0출력
+            WriteLine(2);
+            //예외 발생
+            //int a= int.Parse(null);
+            WriteLine(3);
+
+            // 반쪽짜리 프로그램, out을 설명 안했음.
+            int c;
+            Int32.TryParse("123", out c);
+            WriteLine(c);
+            Int32.TryParse(null,out c);
+            WriteLine(c);
+        }
+    }
+
+========================================================================
+예제)
+class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList();
+            al.Add(1);
+            al.Add(1);
+            al.Add(2);
+            al.Add(2);
+            al.Add(3);
+            al.Add(3);
+            al.Add(4);
+            al.Add(4);
+
+            for (int i = 0; i < al.Count;)
+            {
+                if ((int)al[i] % 2 == 0)
+                {
+                    al.RemoveAt(i);
+                }
+                else
+                {
+                    //iterator
+                    //i++; 속도 차이 10배
+                    ++i;
+                }
+            }
+            foreach (var item in al)
+            {
+                WriteLine(item);
+            }
+   }
+}
+
+========================================================================
+ //강사님
+            Random random = new Random();
+            // ex 1)
+            for (int i = 0; i < 10; i++)
+            {
+                int num = (new Random()).Next();
+                WriteLine(random.Next());
+            }
+            WriteLine();
+            // ex 2)
+            for (int i = 0; i < 10; i++)
+            {
+                WriteLine(random.Next(2));
+            }
+            WriteLine();
+            // ex 3)
+            for (int i = 0; i < 10; i++)
+            {
+                WriteLine(random.Next(3, 5));
+            }
+            WriteLine();
+
+            // ex 4) Red : 0~255
+            for (int i = 0; i < 10; i++)
+            {
+                WriteLine(random.NextDouble());
+            }
+            byte[] ar = new byte[10];
+            random.NextBytes(ar);
+            foreach (var item in ar)
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+
+========================================================================
+예제) 숫자입력 99 입력 종료
+       0123456789
+       0000000000
+
+       01245891011
+       111111100
+ class Star
+
+    {
+
+        public Star(int id, int age)
+        {
+            this.id = id;
+            this.age = age;
+        }
+        int id;
+        public int Id { set; get; }
+        int age;
+        public int Age { set; get; }
+
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            ArrayList al = new ArrayList();
+            Random rand = new Random();
+            int ct = 0;
+            while (true)
+            {
+                //조건에 따라서 랜덤하게 데이터 삭제
+                for (int i = 0; i < al.Count;)
+                {
+                    if (rand.Next(2) == 0)
+                    {
+                        al.RemoveAt(i);
+                    }
+                    else
+                    {
+                        ((Star)al[i]).Age++;
+                        i++;
+                    }
+
+                }
+                // 데이터 추가
+                while (al.Count < 10)
+                {
+                    al.Add(new Star(ct++, 0));
+                }
+                foreach (Star item in al)
+                    Write("{0:d2} ", item.Id);
+                WriteLine();
+
+                foreach (Star item in al)
+                    Write("{0:d2} ", item.Age);
+                WriteLine();
+
+                //키 입력 조건
+                Write("숫자를 입력하세요 :");
+                string input = ReadLine();
+                if (input == "99")
+                {
+                    WriteLine("프로그램을 종료합니다");
+                    break;
+                }
+            }
+       }
+}
+   
+========================================================================
+예제) NameSpace
+using fs =FirstNameSpace;
+using ss = SecondNameSpace;
+namespace FirstNameSpace
+{
+    class Test
+    {
+        public void f1()
+        {
+            WriteLine(1);
+        }
+    }
+}
+namespace SecondNameSpace
+{
+    class Test
+    {
+        public void f1()
+        {
+            WriteLine(2);
+        }
+    }
+}
+namespace _20210701.NET
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            fs.Test t1 = new fs.Test();
+            t1.f1();
+
+            ss.Test t2 = new ss.Test();
+            t2.f1();
+        }
+    }
+}
+
+
