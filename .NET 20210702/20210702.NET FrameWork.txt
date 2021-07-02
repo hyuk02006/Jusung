@@ -1,0 +1,486 @@
+ 예제) 다이아몬드찍기
+class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Write("input : ");
+                int input = int.Parse(ReadLine());
+                WriteLine();
+                if (input % 2 == 0)
+                {
+                    WriteLine("홀수만 입력하세요");
+                    continue;
+                }
+                //내꺼
+                for (int i = 1; i < input;)
+                {
+                    Write(new string(' ', (input - i)));
+                    for (int j = 0; j < i; j++)
+                    {
+                        Write("* ");
+                    }
+                    Write(new string(' ', (input - i)));
+                    WriteLine();
+                    i += 2;
+                }
+                for (int j = 0; j < input; j++)
+                {
+                    Write("* ");
+                }WriteLine();
+                for (int i = 1; i < input/2 + 1;i++)
+                {
+                    Write(new string(' ', i*2));
+                    for (int j = 0; j < input - (2 * i); j++)
+                    {
+                        Write("* ");
+                    }
+                    Write(new string(' ', i*2));
+                    WriteLine();
+                }
+                //강사님꺼
+                int num = 9;
+                int q = num / 2;
+                for (int i = -q; i <= q; i++)
+                {
+                    for (int j = -q; j <= q; j++)
+                    {
+                        int ii = Math.Abs(i);
+                        int jj = Math.Abs(j);
+                        Write("{0} ", (ii + jj <= q) ? "*" : " ");
+                    }
+                    WriteLine();
+                }
+            }
+        }
+    }
+}
+
+=========================================================
+예제) Math 함수
+ class Program
+    {
+        static double DegreeToRadian(double degree)
+        {
+            return Math.PI * degree / 180.0;
+        }
+        static void Main(string[] args)
+        {
+            // 30degree가 아니고 30radian 
+     
+            WriteLine(Math.Sin(DegreeToRadian(30.0)));
+
+            float sum = 0.0f;
+            for (int i = 0; i < 100; i++)
+            {
+                sum += 0.1f;
+            }
+            if (sum ==10.0)
+            {
+                WriteLine("호");
+            }
+            WriteLine(sum);
+
+            // x' = cos0 * x - sin0 * y
+            // y' = sin * x + cos0 * y
+        }
+    }
+=========================================================
+예제) Dictionary
+ class Program
+    {  
+        static void Main(string[] args)
+        {
+            //쌍을 이룬다
+            //{1, 2} 1: Key 2: Value
+            // Create
+            Hashtable user = new Hashtable();
+            user.Add("1","호랑이1");
+            user.Add("2","호랑이2");
+            user.Add("3","호랑이3");
+            WriteLine(user.Count);
+
+            // 제거
+            // 키를 이용하여 제거가 되어야 한다.
+            user.Remove("2");
+            WriteLine(user.Count);
+
+            //user.Clear();
+            //WriteLine(user.Count);
+
+            // 검색
+            WriteLine(user.Contains("1"));
+            WriteLine(user.Contains("2"));
+
+            // Read
+            WriteLine(user["1"]);
+            WriteLine(user["2"]);
+
+            user.Add("4", "호랑이4");
+            ICollection keys = user.Keys;
+            ICollection values = user.Values;
+
+            foreach (var key in keys)
+            {
+                Write(key+ " ");
+            }
+            WriteLine();
+
+            foreach (var value in values )
+            {
+                Write(value + " ");
+            }
+            WriteLine();
+
+            // 주의
+            // user.Add(null, "호랑이4");
+
+            // 갱신
+            user["1"] = "코끼리1";               
+            user["2"] = "코끼리2";
+            foreach (var value in values)
+            {
+                Write(value + " ");
+            }
+            WriteLine();
+
+            //
+            WriteLine(user["2"] );
+            WriteLine(user["2"].ToString());
+            string s = user["2"].ToString();
+            WriteLine(s);
+
+            foreach (DictionaryEntry item in user)
+            {
+                //WriteLine("{0} \t {1}",item.Key,item.Value);
+                WriteLine($"{ item.Key}\t{ item.Value}");   //더 자주보이는 코드
+            }
+            Clear();
+            //foreach (var item in user.Keys)
+            foreach (var item in user.Values)
+            {
+                WriteLine(item);
+            }
+
+            WriteLine(user.ContainsValue("코끼리2"));
+            WriteLine(user.ContainsValue("코끼리3"));
+
+            // 예외가 일어난다 키값은 고유해야 함
+            //user.Add("1", "호랑이4");
+        }
+    }
+
+=========================================================
+예제)SortedList
+ class Program
+    {  
+        static void Main(string[] args)
+        {
+            // Dictionary 와 유사
+            SortedList sl = new SortedList();
+            sl.Add("apple", "호랑이1");
+            sl.Add("orange", "호랑이2");
+            sl.Add("banana", "호랑이3");
+        
+            sl.Add("kiwi", "키위1");
+            //sl.Add("kiwi", "키위1");
+            sl["kiwi"] = "키위2";
+            /*
+            apple   호랑이1
+            banana  호랑이3
+            kiwi    키위2
+            orange  호랑이2              
+             */
+            sl.SetByIndex(1, "독수리");
+            sl.RemoveAt(0);
+            foreach (DictionaryEntry item in sl)
+            {
+                //WriteLine("{0} \t {1}",item.Key,item.Value);
+                WriteLine($"{ item.Key}\t{ item.Value}");   //더 자주보이는 코드
+            }
+            WriteLine();
+            WriteLine(sl.GetByIndex(0));
+
+            IList keys = sl.GetKeyList();
+            IList values = sl.GetValueList();
+            foreach (var item in keys)
+            {
+                WriteLine(item);
+            }
+        }
+    }
+
+=========================================================
+예제)Queue
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            Queue q = new Queue();
+            q.Enqueue("Msg1");
+            q.Enqueue("Msg2");
+            q.Enqueue("Msg3");
+            q.Enqueue("Msg4");
+            WriteLine(q.Count);
+
+            //실제로 데이터를 가져온다
+            while (q.Count != 0)
+            {
+                string s = q.Dequeue().ToString();
+                WriteLine("{0} \t {1}", q.Count, s);
+            }
+            WriteLine("exit");
+
+            q.Enqueue("Msg1");
+            q.Enqueue("Msg2");
+            q.Enqueue("Msg3");
+            string s1 = q.Peek().ToString();
+            WriteLine("{0} \t {1}", q.Count, s1);
+
+            // 큐를 비운다
+            // q.Clear();
+            WriteLine(q.Count);
+            WriteLine(q.Contains("Msg1"));
+            WriteLine(q.Contains("Msg4"));
+
+            WriteLine("---------------------------------");
+            object[] arr = q.ToArray();
+            WriteLine(q.Count);
+            foreach (string item in arr)
+            {
+                WriteLine(item);
+            }
+            q.Clear();
+
+            ArrayList al = new ArrayList();
+            al.Add("Msg 10");
+            al.Add("Msg 20");
+            al.Add("Msg 30");
+            Queue q1 = new Queue(al);
+            WriteLine(q1.Count);
+         
+        }
+    }
+
+=========================================================
+예제)Stack
+class Program
+    {
+        static void Main(string[] args)
+        {
+            ArrayList al = new ArrayList();
+            al.Add(10);
+            al.Add(20);
+            al.Add(30);
+
+            Stack st = new Stack(al);
+            WriteLine(st.Count);
+            st.Push(40);
+            st.Push(50);
+            WriteLine(st.Count);
+            while(st.Count !=0)
+            {
+                int data = (int)st.Pop();
+                WriteLine(data);
+            }
+
+
+            st.Push(10);
+            st.Push(20);
+            st.Push(30);
+            int num = (int)st.Peek();
+            WriteLine(num);
+            WriteLine(st.Count);
+
+            Clear();
+            object[] ar2 = st.ToArray();
+            foreach (var item in ar2)
+            {
+                WriteLine(item);
+            }
+            WriteLine(st.Count);  
+
+        }
+    }
+
+=========================================================
+예제)BitArray
+
+class Program
+    {
+        static void Main(string[] args)
+        {
+            BitArray ba = new BitArray(new bool[] { true, false, true, false });
+            foreach (var item in ba)
+            {
+                WriteLine(item);
+            }
+            ba.Not();   //반대로 
+            WriteLine("=================================");
+            foreach (var item in ba)
+            {
+                WriteLine(item);
+            }
+            Clear();
+            BitArray a = new BitArray(new bool[] { false, false, true, true    });
+            BitArray b = new BitArray(new bool[] { true, false, true, false });
+            //a.And(b);
+            // a.Or(b);
+            a.Xor(b);
+            foreach (var item in a)
+            {
+                WriteLine(item);
+            }
+            
+
+        }
+    }
+
+
+=========================================================
+예제)BitArray
+    class Program
+    {
+        //리턴이 없다. 전달인수가 없다
+        static void f1() { }        
+
+        //리턴이 없다. 전달인수가 있다
+        static void f2(int a, string s) { }
+        
+        //리턴이 있다. 전달인수가 없다
+        static int f3(){return 100;}
+
+        //리턴이 있다. 전달인수가 있다
+        static int f4(int num){  return num;}
+
+        //void f5(string s,...)
+        //int printf(string s, ...)
+        static void f5(string s,params int[] p)
+        {
+            WriteLine(s);
+            int sum = 0;
+            foreach (var item in p)
+            {
+                sum += item;
+            }
+            WriteLine(sum +" ");
+        }
+        static void Main(string[] args)
+        {
+            f5("호랑이");
+            f5("호랑이",20,30,40);
+           
+        }
+    }
+=========================================================
+예제)문자열뒤집기
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string s = "무궁화꽃이피었습니다";
+            char[] ar = s.ToCharArray();
+            foreach (var item in ar)
+            {
+                Write(item + " ");
+            }
+            WriteLine();
+            Array.Reverse(ar);
+            WriteLine(ar);
+            char temp;
+            int size = s.Length;
+            for (int i = 0; i < ar.Length /2; i++)
+            {
+                temp = ar[i];
+                ar[i] = ar[(size - 1) - i];
+                ar[(size - 1) - i] = temp;
+            }
+            WriteLine(ar);
+        }
+    }
+
+=========================================================
+예제)문자열뒤집기
+class Program
+    {
+        static void Main(string[] args)
+        {
+            Guid id1 = Guid.NewGuid();
+            WriteLine(id1);
+            string id2 = Guid.NewGuid().ToString("D");  //Default
+            WriteLine(id2);
+            string id3 = Guid.NewGuid().ToString("N");  //문자열
+            WriteLine(id3);
+            string id4 = Guid.NewGuid().ToString("B");  //{}
+            WriteLine(id4);
+            string id5 = Guid.NewGuid().ToString("P");  //()
+            WriteLine(id5);
+        }
+    }
+
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            int num = 0x1234abcd;
+            WriteLine("2진법:{0}", Convert.ToString(num,2));
+            WriteLine("8진법:{0}",Convert.ToString(num,8));
+            WriteLine($"10진법:{ Convert.ToString(num, 10)}");
+            WriteLine($"16진법:{ Convert.ToString(num, 16)}");
+
+            string s = Convert.ToString(num, 2);
+            WriteLine(s.PadLeft(32,'0'));
+        }
+    }
+
+=========================================================
+예제)OX
+
+      class Program
+    {
+        static void Main(string[] args)
+        {
+            //랜덤 O X OOXO OXO XO        
+            Random rand = new Random();
+            int cnt1 = 0;
+            int cnt2 = 0;
+            int omax = 0;
+            int xmax = 0;
+            while (true)
+            {
+                WriteLine("0입력시 종료");
+
+                for (int i = 0; i < 10; i++)
+                {
+                    int j = rand.Next(2);
+                    Write(j == 0 ? "O" : "X");
+                    if (j == 0)
+                    {                        
+                        cnt2 = 0;
+                        cnt1++;
+                        if (cnt1 > omax)
+                            omax = cnt1;
+                    }
+                    else
+                    {                        
+                        cnt1 = 0;
+                        cnt2++;
+                        if (cnt2 > xmax)
+                            xmax=cnt2 ;
+                    }
+                }
+                WriteLine();
+                WriteLine("O개수:{0} X개수:{1}", omax, xmax);
+
+                omax = 0; xmax = 0;
+                cnt1 = 0; cnt2 = 0;
+                string input = ReadLine();
+                if (input == "0")
+                {
+                    break;
+                }
+            }
+        }
+    }
