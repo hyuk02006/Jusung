@@ -1,0 +1,595 @@
+예제) 싱글톤 패턴
+class Tiger
+    {
+        private static Tiger Instance = null;
+        //객체를 1개도 만들지 못하게 하기위해
+        private Tiger() { WriteLine(1); }
+
+        public static Tiger getInstance()
+        {
+            if (Instance == null)
+            {
+                WriteLine(1000);
+                Instance = new Tiger();
+            }
+
+            return Instance;
+        }
+        int num;
+        public int Num { get; set; }
+
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // 객체를 1개 이상 만들지 마라.
+            // 1개만 있어도 프로그램에 전혀 문제가 발생하지 않는다.
+            // 1개이상 만들면 없어도 되는데 리소스 낭비가 일어난다.
+            // 무조건 한개만 만들어 지게끔 만듬 (싱글톤)
+
+            //객체를 만들수가 없다.
+            //Tiger t1 = new Tiger();
+            //Tiger t2 = new Tiger();
+            Tiger t1 = Tiger.getInstance();
+            t1.Num = 2000;
+            Tiger t2 = Tiger.getInstance();
+            WriteLine(t1.GetHashCode());    //객체의 민증번호 부여---- 
+                                            //                      | 동일한 객체
+            WriteLine(t2.GetHashCode());    //객체의 민증번호 부여 ---
+            WriteLine(t2.Num);
+        }
+    }
+
+========================================================================
+예제) 오버라이딩
+class AA 
+    { 
+        public void f1()
+        {
+            WriteLine(1);
+
+        }
+        public virtual void f2()
+        {
+            WriteLine(2);
+        }
+        public virtual void f3()
+        {
+            WriteLine(5);
+        }
+    }
+    
+    class BB : AA 
+    {
+        public void f1()
+        {
+            WriteLine(3);
+
+        }
+        public override void f2()
+        {
+            WriteLine(4);
+        }
+    }
+    //class CC : AA { }
+    
+   
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            BB t1 = new BB();   
+            t1.f1();
+            t1.f2();
+            t1.f3();
+
+            AA t2 = new BB();   //부자 ->업캐스팅
+            t2.f1();
+            t2.f2();
+            t2.f3();
+            
+            //
+            WriteLine(t1.GetHashCode());
+            //t1 = new CC();
+            WriteLine(t1.GetHashCode());
+            t1 = new BB();
+            WriteLine(t1.GetHashCode());
+
+            //BB t2 = new BB();
+            //AA t3 = new BB();   // 부모 = 자식  ->upcasting 안되면 다형성이 안됨 -> 다형성이 안되면 ->디자인패턴도 안됨
+            //BB t4 = new AA();
+
+        }
+    }
+
+========================================================================
+예제) 다형성(업캐스팅이 기본 base) ㄱ
+class Animal
+    {
+        public virtual void cry()
+        {
+            WriteLine("저는 울지 못해요");
+        }
+    }
+    class Dog : Animal
+    {
+        public override void cry()
+        {
+            WriteLine("멍멍");
+        }
+    }
+    class Cat : Animal
+    {
+        public override void cry()
+        {
+            WriteLine("야옹");
+        }
+    }
+
+    class Snake : Animal
+    {
+
+    }
+
+    class Zoo
+    {
+        //Animal animal =new Dog();
+        //Animal animal =new Cat();
+        public void sound(Animal animal)
+        {
+            animal.cry();   //다형성 프로그램 (업캐스팅이 기본 Base)
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Zoo zoo = new Zoo();
+            Dog dog = new Dog();
+            zoo.sound(dog);
+            zoo.sound(new Cat());
+            zoo.sound(new Snake());
+        }
+    }
+
+========================================================================
+예제) 데코레이션 패턴
+
+    class A
+    {
+        int num = 30;
+        public virtual int run()
+        {
+            WriteLine("A RUN");
+            return num;
+        }
+    }
+
+    class B : A 
+    {
+        int num = 20;
+        A a;
+        public B(A a)
+        {
+            this.a = a;
+        }
+        public override int run()
+        {
+            WriteLine("B RUN");
+            return num+a.run();
+        }
+    }
+
+    class C : A
+    {
+        int num = 10;
+        A a;
+        public C(A a)
+        {
+            this.a = a;
+        }
+        public override int run()
+        {
+            WriteLine("C RUN");
+            return num + a.run();
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            A a = new A();
+            //a.run();
+            a = new B(a);
+            //WriteLine(a.run());
+            a = new C(a);
+            WriteLine(a.run());
+
+        }
+    }
+
+========================================================================
+예제) 데코레이션 패턴(커피 주문 예제)
+
+    class 커피
+    {
+        int num = 30;
+        public virtual int 가격()
+        {
+            WriteLine("커피 주문");
+            return num;
+        }
+    }
+
+    class 설탕 : 커피 
+    {
+        int num = 20;
+        커피 a;
+        public 설탕(커피 a)
+        {
+            this.a = a;
+        }
+        public override int 가격()
+        {
+            WriteLine("설탕 추가");
+            return num+a.가격();
+        }
+    }
+
+    class 프림 : 커피
+    {
+        int num = 10;
+        커피 a;
+        public 프림(커피 a)
+        {
+            this.a = a;
+        }
+        public override int 가격()
+        {
+            WriteLine("프림 추가");
+            return num + a.가격();
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            커피 a = new 커피();
+            커피 a1 = new 프림(new 커피());
+            WriteLine(a1.가격());
+            //a.run();
+            a = new 프림(a);
+            a = new 프림(a);
+            a = new 프림(a);
+            a = new 설탕(a);
+            //WriteLine(a.run());
+            a = new 프림(a);
+            WriteLine(a.가격());
+
+        }
+    }
+
+========================================================================
+예제) 바둑 문제점있는예제 (아래에서 추가해나감)
+
+    class Baduk
+    {
+        public Baduk() { WriteLine("대국을 시작합니다"); }
+        public void play(AlphaGo ag) 
+        {
+            ag.play();
+        }
+        public void play(BetaGo bg)
+        {
+            bg.play();
+        }
+
+    }
+    class AlphaGo
+    {
+        public void play()
+        {
+            WriteLine("인공지능은 알파고 입니다.");
+
+        }
+    }
+
+    class BetaGo
+    {
+        public void play()
+        {
+            WriteLine("인공지능은 베타고 입니다.");
+
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Baduk baduk = new Baduk();
+            baduk.play(new AlphaGo());
+            baduk.play(new BetaGo());
+
+        }
+    }
+
+========================================================================
+예제) 추상화
+  class Baduk
+    {
+        public Baduk() { WriteLine("대국을 시작합니다"); }
+        public void play(AI ag)  //개방폐쇄의 원칙을 지킴
+        {
+            ag.play();
+        }     
+    }
+    //개방폐쇄의 원칙을 지킴
+    abstract class AI
+    {
+        public abstract void play();       
+    }
+    
+    class AlphaGo :AI
+    {
+        //추상함수를 쓸때는 반드시 구현을 해야함
+        public override void play()
+        {
+            WriteLine("인공지능은 알파고 입니다.");
+        }
+    }
+
+    class BetaGo :AI
+    {
+        public override void play()
+        {
+            WriteLine("인공지능은 베타고 입니다.");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Baduk baduk = new Baduk();
+            baduk.play(new AlphaGo());
+            baduk.play(new BetaGo());
+        }
+    }
+
+========================================================================
+예제) 인터페이스
+    
+  class Baduk
+    {
+        public Baduk() { WriteLine("대국을 시작합니다"); }
+        public void play(AI ag)  //개방폐쇄의 원칙을 지킴
+        {
+            ag.play();
+        }
+    }
+    //인터페이스
+    interface AI
+    {
+        void play();
+    }
+
+    class AlphaGo : AI
+    {
+        
+        public void play()
+        {
+            WriteLine("인공지능은 알파고 입니다.");
+        }
+    }
+
+    class BetaGo : AI
+    {
+        public void play()
+        {
+            WriteLine("인공지능은 베타고 입니다.");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Baduk baduk = new Baduk();
+            baduk.play(new AlphaGo());
+            baduk.play(new BetaGo());
+        }
+    }
+
+========================================================================
+예제)  전략패턴 
+    //의존관계 
+    //객체 injection
+ class Baduk
+    {
+        AI ai;
+        public Baduk(AI ai) 
+        {
+            this.ai = ai;
+            WriteLine("대국을 시작합니다");
+        }
+        public void play()  //개방폐쇄의 원칙을 지킴
+        {
+            ai.play();
+        }
+        public void stop()
+        {
+            ai.stop();
+        }
+    }
+    //인터페이스
+    interface AI
+    {
+        void play();
+        void stop();
+    }
+
+    class AlphaGo : AI
+    {
+        
+        public void play()
+        {
+            WriteLine("인공지능은 알파고 입니다.");
+        }
+        public void stop()
+        {
+            WriteLine("알파고가 점수를 계산합니다");
+        }
+    }
+
+    class BetaGo : AI
+    {
+        public void play()
+        {
+            WriteLine("인공지능은 베타고 입니다.");
+        }
+        public void stop()
+        {
+            WriteLine("베타고가 점수를 계산합니다");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Baduk baduk1 = new Baduk(new AlphaGo());
+            baduk1.play();
+            baduk1.stop();
+
+            Baduk baduk2 = new Baduk(new BetaGo());
+            baduk2.play();
+            baduk2.stop();
+        }
+    }
+
+========================================================================
+예제)  this의 정의 or 문법
+ //ex1)
+    class Tiger
+    {
+        //생략된 코드
+        //Tiger this;
+        //Tiger()
+        //{
+        //    this = tiger;
+        //}
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger tiger = new Tiger();
+        }
+    }
+-------------------------------------------------------
+ //ex2) ex1 증명!
+    class Tiger
+    {
+       public Tiger()
+        {
+            WriteLine(this.GetHashCode());            
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger tiger = new Tiger();
+            WriteLine(tiger.GetHashCode());
+        }
+    }
+
+----------------------------------------------------------------------------------------
+   //ex3) this의 용법 1
+    class Tiger
+    {
+        int num;    
+       public Tiger(int num)
+        {
+            this.num = num; //서로 구분을 시키기 위해!!!!
+        }
+
+       void m1(int num)
+        {
+            this.num  = num * 3;
+        }
+    }
+
+----------------------------------------------------------------------------------------
+ //ex4) this의 용법 2 chaining
+    class Tiger
+    {
+        
+       public Tiger m1()
+        {
+            return new Tiger();
+        }
+        public Tiger m2()
+        {
+            WriteLine("아침먹자");
+            return this;
+        }
+        public Tiger m3()
+        {
+            WriteLine("점심먹자");
+            return this;
+        }
+        public void m4()
+        {
+            WriteLine("저녁먹자");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger tiger = new Tiger();
+            Tiger t = tiger.m2();
+            tiger.m2().m2().m2();
+            WriteLine("===================================");
+            Tiger t1 = tiger.m2();
+            t1.m2();
+            WriteLine("===================================");
+            t1.m2().m3().m2().m3().m4();    //함수 체이닝
+
+        }
+    }
+
+----------------------------------------------------------------------------------------
+    //ex5) this의 용법 3 : window 프로그램에서 자주 나타남  ->너에게로 나를 보냄
+    class Tiger //나
+    {
+        public int money=10;
+        public int shape=20;
+       public void m1()
+        {
+            WriteLine(1);
+            Lion lion = new Lion();
+            //lion.m2(new Tiger());
+            lion.결혼해줘(this);  // 너에게로 나를 보냄
+        }
+    }
+    class Lion  // 너
+    {
+        public void 결혼해줘(Tiger t)
+        {
+            WriteLine(t.money + t.shape);
+            if (t.money > 20)
+                WriteLine("ok");
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger tiger = new Tiger();
+            tiger.m1();
+        }
+    }
+
