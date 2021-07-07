@@ -1,0 +1,296 @@
+class Program
+    {
+        static int num = 10;
+        static void m1()
+        {
+            WriteLine(1000);
+        }
+        static void Main(string[] args)
+        {
+            WriteLine(num);
+            m1();
+        }
+    }
+
+====================================================================================
+
+    class Program
+    {
+        enum Color 
+        {
+            RED,
+            GREEN,
+            BLUE
+        };
+        static void m1(Color color)
+        { 
+            switch(color)
+            {
+                case Color.RED:
+                    break;
+                
+                case Color.GREEN:
+                    break;
+            }
+        }
+        static void Main(string[] args)
+        {
+            WriteLine(Color.RED);
+            WriteLine((int)Color.GREEN);
+            WriteLine((int)Color.BLUE);
+
+            Color c = Color.RED;
+            WriteLine(c);
+            m1(Color.RED);
+        }
+    }
+
+====================================================================================
+    class Program
+    {          
+        static void Main(string[] args)
+        {
+            //string 타입일 뿐이다.
+            string a = "1000";
+
+            // 컴파일 할때 타입이 결정된다.
+            // 컴파일이 끝나면 string 타입이다.
+            var b = "2000";
+            //b = 3000;
+
+            object c = "3000";
+            c = 4000;
+
+            //실행할때 타입이 결정된다.
+            dynamic d = "5000";
+            d = 6000;
+            string s = d;
+        }
+    }
+
+====================================================================================
+엘비스? 문법 예외가 발생했을때 exception 처리를 해주는것
+    class Program
+    {          
+        static void Main(string[] args)
+        {
+            string a = "tiger";
+            WriteLine(a.Length);
+
+            
+            string b = null;         
+            WriteLine(b?.Length);
+
+            string c = null;
+            WriteLine(c.Length); //예외 발생
+	
+	int[] arr = null;
+            WriteLine(arr?[0]);
+
+            int? a = null;
+            WriteLine(a ?? 10);
+            int? b = 10;
+            WriteLine(a ?? 10);
+        }
+    }
+
+====================================================================================
+배열 선언
+int[] ar = new int[5];
+int[] br = new int[] { 3, 4, 5 };
+int[] cr = { 3, 4, 5 };
+
+====================================================================================
+예제) 날짜 stringformat   _ = 대입값이 없을때
+class Program
+    {
+        enum APPLE { 일, 월, 화, 수, 목, 금, 토 };
+        static void Main(string[] args)
+        {
+            WriteLine(DateTime.Now.DayOfWeek);
+            WriteLine((int)DateTime.Now.DayOfWeek);
+            string[] str = new string[] { "일", "월", "화", "수", "목", "금", "토" };
+            int dw = ((int)DateTime.Now.DayOfWeek);
+
+            WriteLine(str[dw] + "요일");
+
+            APPLE app = (APPLE)dw;
+            WriteLine(app + "요일");
+
+            WriteLine("{0} {1}", 10, "호랑이");
+            string s = string.Format("{0} {1}", 10, "호랑이");
+            WriteLine(s);
+
+            //
+            for (int i = 0; i < 10; i++)
+            {
+                string filename = string.Format("{0:D4}.BMP", i); //0000~9.BMP 
+
+                //file open(filename)
+                WriteLine(filename);
+            }
+            int age = 20;
+            string name = ReadLine();
+            WriteLine($"{name}{ (age > 17 ? "성인":"미성년")}");
+
+            int a = 0, b = 0, num = 0;
+            _= num % 2 ==0 ? a++ : b++;	//대입값이 없을떄 _ 사용
+        }
+
+    }
+
+====================================================================================
+토글링 코드
+class Program
+    {
+     
+        static void Main(string[] args)
+        {
+            bool a = true;
+            int b = 0;
+            int c = 1;
+            for (int i = 0; i < 10; i++)
+            {
+                //WriteLine(a);
+                //a = !a;
+                //WriteLine(b);
+                //b= 1-b;
+                WriteLine(c);
+                //c = -c;
+                c = -1 * c;
+            }
+        }
+
+    }
+
+
+====================================================================================
+null 주의 함수 만들때 null값은 if문을 사용해서 예외 제거
+    class Tiger
+    {
+        public void m1()
+        {
+            WriteLine("test");
+        }
+    }
+    class Program
+    {
+        static void m1(Tiger t)
+        {
+            if (t ! = null)
+            {
+                t.m1();
+            }
+        }
+        static void Main(string[] args)
+        {
+            m1(null);
+            Tiger t1 = null;
+
+            if (t1 != null)
+            {
+                t1.m1();
+            }
+
+            Tiger t2 = null;
+            t2?.m1();
+            WriteLine("==========================");
+            t2 = new Tiger();
+            t2?.m1();
+        }
+
+    }
+====================================================================================
+포인터 / 레퍼런스 차이
+class Program
+    {
+        static void f1(int a, int b)
+        {
+            int t; t = a; a = b; b = t;
+        }
+
+        static void f2(int *a, int* b)  
+        {
+            if (a == null && b == null)//포인터는 방어적인 코드를 추가해야함
+                return;
+            int t; t = *a; *a = *b; *b = t;
+        }
+
+        static void f3(int& a, int& b)  //레퍼런스값은 널값을 전달하지 못함
+        {
+            int t; t = a; a = b; b = t;
+        }
+        static void Main(string[] args)
+        {
+            int x =10 , y = 20;
+            f1(x, y);
+            WriteLine($"{x}{y}");
+        }
+
+    }
+
+====================================================================================
+C#에서의 SWAP
+ class Program
+    {
+        static void m1(int a ,int b)
+        {
+
+            int t = a;
+            a = b;
+            b= t;
+        }
+        static void m2(ref int a,ref int b)
+        {
+            int t = a;
+            a = b;
+            b = t;
+        }
+        static void Main(string[] args)
+        {
+            int x = 3, y = 4;
+            WriteLine(x+" "+ y);
+            m1(x, y); 
+            WriteLine(x+" "+ y);
+            m2(ref x, ref y);
+            WriteLine(x+" "+ y);
+        }
+
+    }
+====================================================================================
+C# 공유문법
+
+  class Tiger
+    {
+        public int a = 10;
+        public ref int f1()
+        {
+            return ref a;
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Tiger t = new Tiger();
+            int b = t.f1();
+            b = 100;
+            WriteLine(t.a);
+
+            //공유 문법이다.
+            ref int c = ref t.f1();
+            c = 200;
+            WriteLine(t.a);               
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+

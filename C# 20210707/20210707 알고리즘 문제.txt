@@ -1,0 +1,307 @@
+1.
+// 1번. 2021년 
+// 1월 1일이 금요일이다라는 정보는 알고 있다.
+// 2021년 달력을 출력
+// 단, 윤년은 고려하지 않는다.
+// 1월달
+// 일 월 화 수 목 금 토
+
+// 2월달
+// 일 월 화 수 목 금 토
+
+
+enum Day { 일, 월, 화, 수, 목, 금, 토}
+
+
+namespace _0707_Cshape01
+{
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            int nStarDay = 5;
+            int nCount = 0;
+            List<string> list = new List<string>();
+            list = Enum.GetNames(typeof(Day)).ToList();
+            int nMaxDay = 30;
+         
+            WriteLine("2021년 달력");
+            
+            for (int i = 1; i <= 12; i++) //월 표시/
+            {
+                WriteLine($"{i}월");
+                for (int j = 0; j < 7; j++)
+                {
+                    if (nStarDay % 7 == 0)
+                        nStarDay = 0;
+                    Write(list[j].PadLeft(2, ' '));//요일 표시.
+                    nStarDay++;
+                }
+
+                if (i == 4 || i == 6 || i == 9 || i == 11 || i == 12)
+                    nMaxDay = 29;
+                if (i == 2)
+                    nMaxDay = 27;
+
+
+                for (int k = 0; k <= nMaxDay; k++)
+                {
+                    if (k == 0 )
+                    {
+                        WriteLine();
+                        for (int s = 0; s < nStarDay; s++)
+                        {
+                            if (nStarDay == 7)
+                                break;
+                            Write(" ".PadLeft(3, ' '));
+                            nCount++;
+                        }
+                            
+                    }
+                    if (nCount == 7)
+                    {
+                        WriteLine();
+                        nCount = 0;
+                    }
+                      
+                    
+                    Write((k+1).ToString().PadLeft(3, ' '));//요일 숫자 표시.
+                    nCount++;
+
+                    if (k == nMaxDay)
+                        nStarDay = nCount;
+                }
+                nCount = 0;
+                nMaxDay = 30;
+                WriteLine();
+                WriteLine();
+
+            }
+
+        }
+    }
+}
+
+2.
+// 2번. int num = 0x7f3c7b4d;
+// 2진수로 리턴하는 함수를 만드세요.
+// 사용법 string s =m1(num);
+// s를 출력한 결과 
+// 0111 1111 0011 1100 0111 1011 0100 1101
+// num =0x3; 이었다면
+// 결과는 
+// 0000 0000 0000 0000 0000 0000 0000 0011
+
+
+   
+    class Program
+    {
+        static void m1(int num)
+        {
+            int check;
+            for (int i = 0; i < 32; i++)
+            {
+                check = 1 << (31 - i);
+                if (i % 4 == 0 && i != 0)
+                    Write(" ");
+
+                Write($"{((check &num) == 0? "0" :"1" )}");
+               
+            }
+        }
+        static void Main(string[] args)
+        {
+            int num = 0x7f3c7b4d;
+            m1(num);
+        }
+
+    }
+
+
+
+================================================================
+3.
+// 3번. 
+// 가로6칸 세로 5칸의 배열을 사용합니다.
+// 출력 결과 
+// 반드시 o 6개 랜덤하게 위치해야 한다.
+/*
+    # # # # # #
+    # . . . . # 
+    # . . . . # 
+    # . . . . # 
+    # . . . . # 
+    # # # # # # 
+ */
+namespace _20210707.NET
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[,] arr = new string[5, 6];
+            Random random = new Random();
+            int num;
+            int cnt = 0;
+
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 6; j++)
+                {
+                    if (i == 0 || i == 4)
+                    {
+                        arr[i, j] = "#";
+                    }
+                    else
+                    {
+                        if (j == 0 || j == 5)
+                        {
+                            arr[i, j] = "#";
+                        }
+                        else
+                        {
+                            num = random.Next(2);
+                            if (num == 0)
+                            {
+                                arr[i, j] = ".";
+                            }
+                            else
+                            {
+                                if (cnt <=6 )
+                                {
+                                    arr[i, j] = "O";
+                                    cnt++;
+                                }
+                                else
+                                {
+                                    arr[i, j] = ".";
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 0; j < 6; j++)
+                {
+                    Write(arr[i, j] + " ");
+                }
+                WriteLine();
+            }
+        }
+    }
+}
+
+================================================================
+4. // 4번 : 배열을 사용하지 않는다.
+// num은 반드시 홀수 이다.
+/*
+ int num =5; //일때 결과
+
+    O O O O O
+    . O O O .
+    . .  O . .
+    . O O O .
+    O O O O O
+ 
+ */
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Write("숫자를 입력하세요:");
+                int a = int.Parse(ReadLine());
+                if (a % 2 == 0)
+                {
+                    WriteLine("홀수만 입력");
+                    continue;
+
+                }
+                for (int i = 0; i < a; i+=2)
+                {
+                    for (int j = 0; j < i; j+=2)
+                    {
+                        Write(" ");
+                    }
+                    for (int k = 0; k < a - i; k++)
+                    {
+                       Write("O");
+                    }
+                    WriteLine();
+                }
+                for (int i = a-2; i > 0; i -= 2)
+                {
+                    for (int j = 1; j < i; j += 2)
+                    {
+                        Write(" ");
+                    }
+                    for (int k = 0; k <= a - i; k++)
+                        Write("O");
+                    WriteLine();
+                }
+            }
+        }
+
+    }
+}
+
+================================================================
+
+5.
+ int [] ar ={50,64,39,66,93,78,0,100}
+이차원 배열을 사용한다.
+히스토그램 작성
+
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] ar = { 50, 64, 39, 66, 93, 78, 0, 100 };
+            string[,] arr = new string[10, ar.Length];
+            int[] index = new int[ar.Length];
+            int cnt = 0;
+
+            for (int i = 0; i <ar.Length; i++)
+            {
+                cnt = 10 - ar[i] / 10;
+                index[i] = cnt;
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j <ar.Length; j++)
+                {
+
+		arr[i.j] =index[j]>i ? "." : "O";
+                    if (index[j] >i)
+                    {
+                        arr[i, j] = ".";
+                    }
+                    else
+                    {
+                        arr[i, j] = "O";
+                    }
+                }
+            }
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j <ar.Length; j++)
+                {
+                    Write(arr[i, j] + " ");
+                }
+                WriteLine();
+            }
+        }
+    }
+
+
+
+
