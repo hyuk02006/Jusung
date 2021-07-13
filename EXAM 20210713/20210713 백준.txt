@@ -1,0 +1,17 @@
+#include<iostream>
+#include <string>
+#include <algorithm>
+using namespace std;
+
+int main(void)
+{
+	string str1, str2;
+	cin >> str1 >> str2;
+	reverse(str1.begin(), str1.end());
+	reverse(str2.begin(), str2.end());
+	int a = stoi(str1);
+	int b = stoi(str2);
+	
+	cout << (a > b ? a : b);
+
+}
