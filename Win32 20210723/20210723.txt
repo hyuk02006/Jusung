@@ -1,0 +1,38 @@
+// __stdcall,  __cdecl 차이
+
+ __cdecl  :함수 안에서 뒷정리
+ __stdcal :l스코프 닫히는 시점에  뒷정리 (자기 스스로)
+
+void m1() //default : __cdecl
+{ 
+
+}
+int __cdecl m2()
+{
+
+}
+int __stdcall m3(int a, int b)
+{
+
+}
+
+// EAX EBX ECX .... 16개 레지스터 >> stack 메모리에 저장 (함수호출은 이 작업을 함으로써 비용이 많이듬)
+    m1();
+// EAX EBX ECX .... 16개 레지스터 >> stack 메모리에 저장 (함수호출은 이 작업을 함으로써 비용이 많이듬)
+    m2();
+
+운영체제가 호출하는 함수 : CALLBACK(__stdcall) 함수
+
+wcex.style  = CS_HREDRAW | CS_VREDRAW;  //윈도우 모양을 적절하게 바꾼다.
+
+함수 포인터 만드는과정
+void m4()
+{
+}
+함수 원형 가지고 와서 내가 만들 이름 으로 change 
+void(*m5)() =m4;
+
+void m6(int a, int b)
+{
+}
+void (*m7)(int, int ) = m6;
