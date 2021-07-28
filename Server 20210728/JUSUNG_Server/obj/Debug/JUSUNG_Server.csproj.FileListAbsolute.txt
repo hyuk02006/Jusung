@@ -1,0 +1,20 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
