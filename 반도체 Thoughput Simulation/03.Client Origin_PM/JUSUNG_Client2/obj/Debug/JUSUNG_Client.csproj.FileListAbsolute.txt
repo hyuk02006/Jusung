@@ -1,0 +1,49 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form1.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.GenerateResource.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_CLIENT\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\JUSUNG_Client (2)\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form1.resources
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\JUSUNG_Client\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form1.resources
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb

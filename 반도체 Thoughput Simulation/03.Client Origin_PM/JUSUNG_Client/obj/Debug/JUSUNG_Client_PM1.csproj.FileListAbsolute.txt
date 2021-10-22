@@ -1,0 +1,20 @@
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_PM.resources
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_PM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client\obj\Debug\JUSUNG_Client_PM1.csproj.AssemblyReference.cache

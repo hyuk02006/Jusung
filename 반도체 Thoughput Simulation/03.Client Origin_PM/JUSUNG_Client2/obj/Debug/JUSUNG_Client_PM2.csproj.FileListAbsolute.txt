@@ -1,0 +1,186 @@
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0913_2_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1007_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1008\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1001_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\10132039_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\log4net.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\log4net.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\log4net.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\bin\Debug\log4net.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Form_PM2.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client_PM2.csproj.CopyComplete
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\03.Client Origin_PM\JUSUNG_Client2\obj\Debug\JUSUNG_Client.pdb

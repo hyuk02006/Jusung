@@ -1,0 +1,21 @@
+{
+  "EFEM-nLPM": 25,
+  "EFEM-nAspeedPick": 4,
+  "EFEM-nAspeedPlace": 4,
+  "EFEM-nAspeedRotate": 1,
+  "EFEM-nAlgTime": 8,
+  "TM-nVac": 2,
+  "TM-nLL": 4,
+  "TM-nLLWafer": 6,
+  "TM-nLLPumpTime": 15,
+  "TM-nLLPumpStabTime": 5,
+  "TM-nLLVentTime": 15,
+  "TM-nLLVentStabTime": 5,
+  "TM-nVspeedPick": 4,
+  "TM-nVspeedPlace": 4,
+  "TM-nVspeedRotate": 1,
+  "PM-nPM": 3,
+  "PM-nPMWafer": 6,
+  "PM-nProcessTime": 1500,
+  "Speed": 1
+}

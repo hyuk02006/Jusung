@@ -1,0 +1,1340 @@
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\ygh_0\OneDrive\바탕 화면\Project\0726_SERVER\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\JUSUNG_Server\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\Documents\카카오톡 받은 파일\서버\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\서버 (2)\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\Project\Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0804_bk_Solution\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0809_수정\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0824_Solution_2\Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\Project\Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojResolveAssemblyReference.cache
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.Cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csprojResolveAssemblyReference.cache
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.Cache
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\송기혁\Desktop\Project\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\0901_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\0913_2_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Desktop\1001_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\10132039_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe.config
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\JUSUNG_Server.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Ionic.Zip.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Drawing.Common.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Buffers.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Memory.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form1.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form2.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form3.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Form4.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.Properties.Resources.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.csproj.CopyComplete
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\00.Server Origin\Server Origin\JUSUNG_Server\obj\Debug\JUSUNG_Server.pdb

@@ -1,0 +1,900 @@
+[21-10-06-수] (09:39:49) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-06-수] (09:40:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-06-수] (09:40:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-06-수] (09:40:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-06-수] (09:40:08) => < PM1 : SEND > => ProcessStart
+[21-10-06-수] (09:40:08) => < PM1 : SEND > => ProcessEND
+[21-10-06-수] (09:40:19) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-06-수] (09:40:20) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-06-수] (09:40:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (09:47:44) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-07-목] (11:44:02) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-07-목] (03:44:35) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-07-목] (03:44:59) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:01) => < PM1 : SEND > => ProcessStart
+[21-10-07-목] (03:45:06) => < PM1 : SEND > => ProcessEND
+[21-10-07-목] (03:45:20) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:45:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:45:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:45:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:45:36) => < PM1 : SEND > => ProcessStart
+[21-10-07-목] (03:45:41) => < PM1 : SEND > => ProcessEND
+[21-10-07-목] (03:45:59) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:46:00) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:46:01) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:46:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:46:15) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:46:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:46:16) => < PM1 : SEND > => ProcessStart
+[21-10-07-목] (03:46:21) => < PM1 : SEND > => ProcessEND
+[21-10-07-목] (03:46:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:46:41) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:46:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:47:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:47:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:47:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-07-목] (03:47:05) => < PM1 : SEND > => ProcessStart
+[21-10-07-목] (03:47:10) => < PM1 : SEND > => ProcessEND
+[21-10-07-목] (03:47:10) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-07-목] (03:47:27) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:47:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:47:29) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-07-목] (03:49:32) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-07-목] (03:50:43) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (12:51:13) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (12:53:04) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (12:53:59) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (12:54:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:15) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:15) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:54:16) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:54:27) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:54:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:54:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:54:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:54:39) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:54:40) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:54:55) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:54:56) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:54:57) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:07) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:55:08) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:55:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:24) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:25) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:37) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:55:38) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:55:38) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:55:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:55:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:06) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:56:07) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:56:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:56:35) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:56:35) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:56:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:56:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:06) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:57:06) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:57:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:57:35) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:57:35) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:57:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:57:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:04) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:58:05) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:58:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:58:36) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:58:36) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:58:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:58:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:05) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:59:06) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:59:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (12:59:36) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (12:59:36) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (12:59:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (12:59:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:07) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:00:08) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:00:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:24) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:25) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:00:36) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:00:37) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:00:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:54) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:00:55) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:08) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:01:09) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:01:25) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:26) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:27) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:01:39) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:01:40) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:01:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:01:54) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:02:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:09) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:09) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:02:10) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:02:26) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:02:27) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:02:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:02:40) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:42) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:02:42) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:02:42) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:02:59) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:00) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:00) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:11) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:11) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:12) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:12) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:03:13) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:03:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:29) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:42) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:43) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:03:43) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:03:43) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:03:56) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:57) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:03:58) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:04:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:04:15) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:04:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:04:16) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:04:16) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:04:32) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:04:33) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:04:34) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:40:00) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (01:40:55) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:40:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:40:58) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:40:59) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:42:58) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (01:44:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:44:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:44:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:44:08) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:44:09) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:44:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:44:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:44:54) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:45:47) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:45:49) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:45:52) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (01:45:52) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (01:45:53) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (01:46:29) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:46:33) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:46:36) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (01:59:47) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (02:01:49) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-08-금] (02:02:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:06) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:02:06) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:02:16) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:30) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:02:31) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:02:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:46) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:02:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:02:58) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:02:59) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:03:16) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:03:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:03:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:03:30) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:03:31) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:03:44) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:46) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:03:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:03:59) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:04:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:04:00) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:04:00) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:04:16) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:04:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:04:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:04:29) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:04:30) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:04:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:04:59) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:01) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:05:02) => < PM1 : SEND > => ProcessEND
+[21-10-08-금] (02:05:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:05:19) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:05:20) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-08-금] (02:05:31) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:32) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-08-금] (02:05:33) => < PM1 : SEND > => ProcessStart
+[21-10-08-금] (02:05:33) => < PM1 : SEND > => ProcessEND
+[21-10-12-화] (04:19:21) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-12-화] (04:19:26) => < PM0 : SEND > => ERROR
+[21-10-12-화] (04:19:52) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-12-화] (04:20:18) => < PM0 : SEND > => ERROR
+[21-10-12-화] (04:20:55) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-12-화] (04:21:10) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:11) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:12) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:12) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:21:13) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:21:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:21:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:21:24) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:21:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:21:36) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:21:36) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:21:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:21:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:21:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:02) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:04) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:22:05) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:22:20) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:34) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:22:35) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:22:35) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:22:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:22:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:23:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:05) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:23:05) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:23:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:23:22) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:23:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:23:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:23:41) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:23:41) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:24:00) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:24:01) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:24:01) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:24:47) => < PM0 : SEND > => ERROR
+[21-10-12-화] (04:50:37) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-12-화] (04:50:53) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:50:54) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:50:55) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:50:55) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:50:56) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:51:07) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:51:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:51:09) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:51:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:51:20) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:51:21) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-12-화] (04:51:21) => < PM0 : SEND > => ProcessStart
+[21-10-12-화] (04:51:21) => < PM0 : SEND > => ProcessEND
+[21-10-12-화] (04:51:37) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:51:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:51:39) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-12-화] (04:54:01) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:01:31) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:01:40) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:28:09) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:28:15) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:29:08) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:29:15) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:30:46) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:30:56) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:31:24) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:31:37) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:32:44) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:34:23) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:34:49) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:36:15) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:36:38) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:36:53) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:36:55) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:36:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:36:56) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:36:56) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:37:06) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:18) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:20) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:20) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:37:20) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:37:36) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:36) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:37) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:37:47) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:48) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:49) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:37:49) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:37:50) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:38:06) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:07) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:20) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:21) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:21) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:38:22) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:38:34) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:35) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:36) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:38:50) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:51) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:52) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:38:52) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:38:52) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:39:09) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:09) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:10) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:21) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:21) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:22) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:22) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:39:23) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:39:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:41) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:42) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:39:53) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:54) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:55) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:39:55) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:39:55) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:40:11) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:12) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:13) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:23) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:24) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:25) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:25) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:40:26) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:40:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:39) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:40:55) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:40:57) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:40:57) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:41:14) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:15) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:16) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:41:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:41:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (11:41:30) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (11:41:31) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (11:41:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (11:41:54) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:42:26) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:42:30) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:46:12) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:50:04) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:50:41) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:52:18) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:52:57) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:54:11) => < PM0 : SEND > => ERROR
+[21-10-13-수] (11:54:38) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (11:54:54) => < PM0 : SEND > => ERROR
+[21-10-13-수] (02:30:55) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (02:43:47) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (02:44:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:06) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (02:44:06) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (02:44:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (02:44:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (02:44:19) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (02:44:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:31) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (02:44:31) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (02:44:31) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (02:44:33) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:10:47) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:11:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:05) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:11:06) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:11:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:27) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:28) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:11:28) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:11:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:11:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:11:57) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:11:58) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:12:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:12:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:12:09) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:12:18) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:12:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:12:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:12:19) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:12:20) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:12:29) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:12:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:12:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:18:03) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:18:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:18:37) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:18:37) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:18:38) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:18:56) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:18:58) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:19:13) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:20:02) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:20:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:20:17) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:20:17) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:20:18) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:20:27) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:20:29) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:22:39) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:23:31) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:23:51) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:25:10) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:25:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:25:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:25:39) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:25:44) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:26:02) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:26:05) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:26:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:26:17) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:26:17) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:26:22) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:26:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:26:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:27:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:27:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:27:01) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:27:06) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:27:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:27:33) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:27:45) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:27:46) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:27:46) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:27:51) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:38:33) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:38:49) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:38:51) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (06:38:51) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (06:38:56) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (06:39:06) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:39:09) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (06:39:14) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:41:01) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:41:19) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:41:49) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:42:08) => < PM0 : SEND > => ERROR
+[21-10-13-수] (06:42:33) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (06:42:53) => < PM0 : SEND > => ERROR
+[21-10-13-수] (07:14:54) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-13-수] (07:15:23) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (07:15:25) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-13-수] (07:15:25) => < PM0 : SEND > => ProcessStart
+[21-10-13-수] (07:15:35) => < PM0 : SEND > => ProcessEND
+[21-10-13-수] (07:15:53) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (07:15:56) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-13-수] (07:39:20) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (07:40:07) => < PM0 : SEND > => ERROR
+[21-10-13-수] (07:40:31) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (07:40:33) => < PM0 : SEND > => ERROR
+[21-10-13-수] (07:42:22) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:00:50) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:02:19) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:02:22) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:10:54) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:12:29) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:14:32) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:18:06) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:21:54) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:22:34) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:23:03) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:23:05) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:26:14) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:27:04) => < PM0 : SEND > => ERROR
+[21-10-13-수] (08:28:55) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-13-수] (08:30:42) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:08:39) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:09:25) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:09:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:09:28) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:09:45) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:10:13) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:10:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:10:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:10:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:10:41) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:10:58) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:11:35) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:11:39) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:12:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:12:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:12:03) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:12:20) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:12:58) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:13:02) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:13:24) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:13:27) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:13:27) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:13:43) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:14:19) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:14:23) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:14:44) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:14:47) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:14:47) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:15:03) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:15:42) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:15:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:16:09) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:16:11) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:17:01) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:17:31) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:17:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:17:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:17:35) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:17:45) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:17:49) => < PM1 : RECEIVE TO( SERVER) > => Assemble
+[21-10-14-목] (09:18:02) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:18:03) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:18:05) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:18:47) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:19:21) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:19:36) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:19:37) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:19:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:19:38) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:19:40) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:19:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:19:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:19:51) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:02) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:02) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:20:04) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:20:16) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:18) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:30) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:20:30) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:20:32) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:20:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:46) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:20:59) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:21:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:21:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:21:01) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:21:03) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:21:03) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:23:02) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:23:08) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:25:12) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:25:40) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:25:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:25:43) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:25:43) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:25:53) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:26:10) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:26:12) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:26:14) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:26:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:26:29) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:26:31) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:26:31) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:26:41) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:27:02) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:27:05) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:27:07) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:27:22) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:27:23) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:27:25) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:27:25) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:27:35) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:27:55) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:27:57) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:27:59) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:28:13) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:28:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:28:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:28:16) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:28:26) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:28:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:28:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:28:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:29:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:06) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:29:16) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:29:36) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:29:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:29:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:29:54) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:29:58) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:30:08) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:30:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:30:31) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:30:33) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:30:50) => < PM0 : SEND > => ERROR
+[21-10-14-목] (09:36:56) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-14-목] (09:37:23) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:37:25) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:37:27) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:37:27) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:37:37) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:37:54) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:37:56) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:37:59) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:38:12) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:38:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:38:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:38:16) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:38:26) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:38:46) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:38:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:38:50) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:39:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:39:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:39:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:39:08) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:39:18) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:39:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:39:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:39:42) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:39:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:39:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:40:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:40:00) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:40:10) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:40:28) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:40:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:40:32) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:40:46) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:40:48) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:40:50) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:40:50) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:41:00) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:41:19) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:41:21) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:41:24) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:41:38) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:41:39) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:41:41) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:41:41) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:41:51) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:42:12) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:42:14) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:42:17) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:42:32) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:42:33) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:42:35) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:42:35) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:42:45) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:43:05) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:43:08) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:43:10) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:43:24) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:43:26) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:43:28) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:43:28) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:43:38) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:43:57) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:43:59) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:44:02) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:44:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:44:17) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:44:19) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:44:19) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:44:29) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:44:52) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:44:54) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:44:57) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:45:10) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:45:12) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:45:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:45:14) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:45:24) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:45:45) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:45:47) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:45:49) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:46:04) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:46:06) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:46:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:46:08) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:46:18) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:46:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:46:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:46:43) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:46:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:46:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:47:01) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-14-목] (09:47:01) => < PM0 : SEND > => ProcessStart
+[21-10-14-목] (09:47:11) => < PM0 : SEND > => ProcessEND
+[21-10-14-목] (09:47:29) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:47:31) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:47:33) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-14-목] (09:47:38) => < PM0 : SEND > => ERROR
+[21-10-15-금] (09:15:03) => < PM0 : SEND > => ERROR
+[21-10-15-금] (09:16:30) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-15-금] (09:16:35) => < PM0 : SEND > => ERROR
+[21-10-15-금] (09:18:38) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-15-금] (09:19:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:19:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:19:09) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:19:09) => < PM0 : SEND > => ProcessStart
+[21-10-15-금] (09:19:19) => < PM0 : SEND > => ProcessEND
+[21-10-15-금] (09:19:37) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:19:39) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:19:41) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:19:56) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:19:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:20:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:20:00) => < PM0 : SEND > => ProcessStart
+[21-10-15-금] (09:20:10) => < PM0 : SEND > => ProcessEND
+[21-10-15-금] (09:20:30) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:20:32) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:20:34) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (09:20:49) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:20:51) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:20:53) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (09:20:53) => < PM0 : SEND > => ProcessStart
+[21-10-15-금] (09:21:03) => < PM0 : SEND > => ProcessEND
+[21-10-15-금] (09:21:22) => < PM0 : SEND > => ERROR
+[21-10-15-금] (10:39:43) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-15-금] (10:40:11) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:40:13) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:40:15) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:40:15) => < PM1 : SEND > => ProcessStart
+[21-10-15-금] (10:40:25) => < PM1 : SEND > => ProcessEND
+[21-10-15-금] (10:40:43) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:40:46) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:40:48) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:41:03) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:41:05) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:41:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:41:07) => < PM1 : SEND > => ProcessStart
+[21-10-15-금] (10:41:17) => < PM1 : SEND > => ProcessEND
+[21-10-15-금] (10:41:27) => < PM1 : SEND > => ERROR
+[21-10-15-금] (10:43:39) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-15-금] (10:44:07) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:44:08) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:44:10) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:44:10) => < PM1 : SEND > => ProcessStart
+[21-10-15-금] (10:44:20) => < PM1 : SEND > => ProcessEND
+[21-10-15-금] (10:44:38) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:44:40) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:44:42) => < PM1 : RECEIVE TO( SERVER) > => PickPMtoVAC
+[21-10-15-금] (10:44:57) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:44:58) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:45:00) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-15-금] (10:45:00) => < PM1 : SEND > => ProcessStart
+[21-10-15-금] (10:45:10) => < PM1 : SEND > => ProcessEND
+[21-10-15-금] (10:45:10) => < PM1 : SEND > => ERROR
+[21-10-22-금] (09:27:47) => < PM1 : RECEIVE TO( SERVER) > => SETDATA
+[21-10-22-금] (09:28:14) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-22-금] (09:28:16) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-22-금] (09:28:18) => < PM1 : RECEIVE TO( SERVER) > => FillChamber
+[21-10-22-금] (09:28:18) => < PM1 : SEND > => ProcessStart
+[21-10-22-금] (09:28:28) => < PM1 : SEND > => ProcessEND
+[21-10-22-금] (09:28:28) => < PM1 : SEND > => ERROR

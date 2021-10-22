@@ -1,0 +1,379 @@
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0817_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0823_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0824_Solution\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0824_Solution_2\Client Origin\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\Project\Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0825_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.Cache
+C:\Users\송기혁\Desktop\Project\0825_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojResolveAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0826_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0827_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0830_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT_R33\Documents\카카오톡 받은 파일\0830_Solution (2)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0831_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojAssemblyReference.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\bit\OneDrive\바탕 화면\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0831_Solution (1)\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csprojResolveAssemblyReference.cache
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\송기혁\Desktop\Project\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.Cache
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0901_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0902_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0907_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0908_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0908_Solution 수정본\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0911_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\0913_2_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\프로젝트\0923_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1007_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1008\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1001_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1013_Solution (2)123131\1013_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\10132039_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\log4net.dll
+C:\Users\BIT\Documents\카카오톡 받은 파일\1014_Solution_\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\log4net.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe.config
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\JUSUNG_Client.pdb
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\log4net.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Design.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\log4net.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.AssemblyReference.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Form_EFEM.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.Properties.Resources.resources
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.GenerateResource.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CoreCompileInputs.cache
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client_EFEM.csproj.CopyComplete
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.exe
+C:\Users\BIT\Desktop\1015 (1)\1015_Solution\01.Client Origin_EFEM\JUSUNG_Client\obj\Debug\JUSUNG_Client.pdb
