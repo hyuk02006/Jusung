@@ -1,0 +1,10 @@
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\bin\x64\Debug\ExcelExam.exe.config
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\bin\x64\Debug\ExcelExam.exe
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\bin\x64\Debug\ExcelExam.pdb
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.Form1.resources
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.Properties.Resources.resources
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.csproj.GenerateResource.cache
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.csproj.CoreCompileInputs.cache
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.exe
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.pdb
+C:\Users\BIT\source\repos\ExcelExam\ExcelExam\obj\x64\Debug\ExcelExam.csproj.AssemblyReference.cache
